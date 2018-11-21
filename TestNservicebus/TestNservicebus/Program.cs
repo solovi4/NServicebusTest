@@ -16,20 +16,24 @@ namespace TestNservicebus
 
         private static async Task MainAsync()
         {
-            var nServicebusManager = new NServicebusManager();
-            IEndpointInstance endpointInstance = await nServicebusManager.Start();
-            var myEvent = new MyEvent { Arr = new short[] { 1, 3, 5 } };
-            try
+            while (true)
             {
-                await endpointInstance.Publish(myEvent).ConfigureAwait(false);
-            }
-            catch (Exception e)
-            {
+                var nServicebusManager = new NServicebusManager();
+                IEndpointInstance endpointInstance = await nServicebusManager.Start();
+                var myEvent = new MyEvent { Arr = new short[] { 1, 3, 5 } };
+                try
+                {
+                    await endpointInstance.Publish(myEvent).ConfigureAwait(false);
+                }
+                catch (Exception e)
+                {
 
-            }
-            finally
-            {
-                await endpointInstance.Stop().ConfigureAwait(false); ;
+                }
+                finally
+                {
+                    await endpointInstance.Stop().ConfigureAwait(false); ;
+                }
+                Console.ReadKey();
             }
         }
        

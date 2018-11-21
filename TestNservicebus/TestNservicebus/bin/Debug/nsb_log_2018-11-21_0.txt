@@ -80,3 +80,383 @@
 2018-11-21 12:49:45.987 INFO  NServiceBus.PerformanceCounterHelper NServiceBus performance counter for '# of msgs failures / sec' is not set up correctly. To rectify this problem, consult the NServiceBus performance counters documentation.
 2018-11-21 12:49:48.898 INFO  NServiceBus.Unicast.UnicastBus Initiating shutdown.
 2018-11-21 12:49:48.917 INFO  NServiceBus.Unicast.UnicastBus Shutdown complete.
+2018-11-21 14:07:11.264 INFO  DefaultFactory Logging to 'D:\MyProg\NServicebusTest\TestNservicebus\TestNservicebus\bin\Debug\' with level Info
+2018-11-21 14:07:11.396 INFO  NServiceBus.LicenseManager No valid license could be found, falling back to trial license with start date '25.09.2018'
+
+2018-11-21 14:07:11.407 WARN  NServiceBus.LicenseManager Trial for the Particular Service Platform has expired.
+2018-11-21 14:07:13.144 INFO  NServiceBus.PerformanceMonitorUsersInstaller Skipped adding user 'EASTWIND\o.solovichenko' to group 'Пользователи системного монитора' because the user is already in group.
+2018-11-21 14:07:13.188 INFO  NServiceBus.PerformanceCounterHelper NServiceBus performance counter for '# of msgs pulled from the input queue /sec' is not set up correctly. To rectify this problem, consult the NServiceBus performance counters documentation.
+2018-11-21 14:07:13.201 INFO  NServiceBus.PerformanceCounterHelper NServiceBus performance counter for '# of msgs successfully processed / sec' is not set up correctly. To rectify this problem, consult the NServiceBus performance counters documentation.
+2018-11-21 14:07:13.213 INFO  NServiceBus.PerformanceCounterHelper NServiceBus performance counter for '# of msgs failures / sec' is not set up correctly. To rectify this problem, consult the NServiceBus performance counters documentation.
+2018-11-21 14:07:15.516 INFO  NServiceBus.Unicast.UnicastBus Initiating shutdown.
+2018-11-21 14:07:15.537 INFO  NServiceBus.Unicast.UnicastBus Shutdown complete.
+2018-11-21 14:09:50.155 INFO  DefaultFactory Logging to 'D:\MyProg\NServicebusTest\TestNservicebus\TestNservicebus\bin\Debug\' with level Info
+2018-11-21 14:09:50.275 INFO  NServiceBus.LicenseManager No valid license could be found, falling back to trial license with start date '25.09.2018'
+
+2018-11-21 14:09:50.285 WARN  NServiceBus.LicenseManager Trial for the Particular Service Platform has expired.
+2018-11-21 14:09:52.075 INFO  NServiceBus.PerformanceMonitorUsersInstaller Skipped adding user 'EASTWIND\o.solovichenko' to group 'Пользователи системного монитора' because the user is already in group.
+2018-11-21 14:09:52.115 INFO  NServiceBus.PerformanceCounterHelper NServiceBus performance counter for '# of msgs pulled from the input queue /sec' is not set up correctly. To rectify this problem, consult the NServiceBus performance counters documentation.
+2018-11-21 14:09:52.127 INFO  NServiceBus.PerformanceCounterHelper NServiceBus performance counter for '# of msgs successfully processed / sec' is not set up correctly. To rectify this problem, consult the NServiceBus performance counters documentation.
+2018-11-21 14:09:52.136 INFO  NServiceBus.PerformanceCounterHelper NServiceBus performance counter for '# of msgs failures / sec' is not set up correctly. To rectify this problem, consult the NServiceBus performance counters documentation.
+2018-11-21 14:09:54.255 INFO  NServiceBus.Unicast.UnicastBus Initiating shutdown.
+2018-11-21 14:09:54.276 INFO  NServiceBus.Unicast.UnicastBus Shutdown complete.
+2018-11-21 14:11:20.832 INFO  DefaultFactory Logging to 'D:\MyProg\NServicebusTest\TestNservicebus\TestNservicebus\bin\Debug\' with level Info
+2018-11-21 14:11:20.942 INFO  NServiceBus.LicenseManager No valid license could be found, falling back to trial license with start date '25.09.2018'
+
+2018-11-21 14:11:20.953 WARN  NServiceBus.LicenseManager Trial for the Particular Service Platform has expired.
+2018-11-21 14:11:22.868 INFO  NServiceBus.PerformanceMonitorUsersInstaller Skipped adding user 'EASTWIND\o.solovichenko' to group 'Пользователи системного монитора' because the user is already in group.
+2018-11-21 14:11:22.911 INFO  NServiceBus.PerformanceCounterHelper NServiceBus performance counter for '# of msgs pulled from the input queue /sec' is not set up correctly. To rectify this problem, consult the NServiceBus performance counters documentation.
+2018-11-21 14:11:22.924 INFO  NServiceBus.PerformanceCounterHelper NServiceBus performance counter for '# of msgs successfully processed / sec' is not set up correctly. To rectify this problem, consult the NServiceBus performance counters documentation.
+2018-11-21 14:11:22.934 INFO  NServiceBus.PerformanceCounterHelper NServiceBus performance counter for '# of msgs failures / sec' is not set up correctly. To rectify this problem, consult the NServiceBus performance counters documentation.
+2018-11-21 14:11:24.853 INFO  NServiceBus.Unicast.UnicastBus Initiating shutdown.
+2018-11-21 14:11:24.872 INFO  NServiceBus.Unicast.UnicastBus Shutdown complete.
+2018-11-21 14:45:34.677 INFO  DefaultFactory Logging to 'D:\MyProg\NServicebusTest\TestNservicebus\TestNservicebus\bin\Debug\' with level Info
+2018-11-21 14:45:34.794 INFO  NServiceBus.LicenseManager No valid license could be found, falling back to trial license with start date '25.09.2018'
+
+2018-11-21 14:45:34.807 WARN  NServiceBus.LicenseManager Trial for the Particular Service Platform has expired.
+2018-11-21 14:45:36.955 INFO  NServiceBus.PerformanceMonitorUsersInstaller Skipped adding user 'EASTWIND\o.solovichenko' to group 'Пользователи системного монитора' because the user is already in group.
+2018-11-21 14:45:37.007 INFO  NServiceBus.PerformanceCounterHelper NServiceBus performance counter for '# of msgs pulled from the input queue /sec' is not set up correctly. To rectify this problem, consult the NServiceBus performance counters documentation.
+2018-11-21 14:45:37.019 INFO  NServiceBus.PerformanceCounterHelper NServiceBus performance counter for '# of msgs successfully processed / sec' is not set up correctly. To rectify this problem, consult the NServiceBus performance counters documentation.
+2018-11-21 14:45:37.030 INFO  NServiceBus.PerformanceCounterHelper NServiceBus performance counter for '# of msgs failures / sec' is not set up correctly. To rectify this problem, consult the NServiceBus performance counters documentation.
+2018-11-21 14:51:32.732 INFO  DefaultFactory Logging to 'D:\MyProg\NServicebusTest\TestNservicebus\TestNservicebus\bin\Debug\' with level Info
+2018-11-21 14:51:32.840 INFO  NServiceBus.LicenseManager No valid license could be found, falling back to trial license with start date '25.09.2018'
+
+2018-11-21 14:51:32.852 WARN  NServiceBus.LicenseManager Trial for the Particular Service Platform has expired.
+2018-11-21 14:51:34.856 INFO  NServiceBus.PerformanceMonitorUsersInstaller Skipped adding user 'EASTWIND\o.solovichenko' to group 'Пользователи системного монитора' because the user is already in group.
+2018-11-21 14:51:34.897 INFO  NServiceBus.PerformanceCounterHelper NServiceBus performance counter for '# of msgs pulled from the input queue /sec' is not set up correctly. To rectify this problem, consult the NServiceBus performance counters documentation.
+2018-11-21 14:51:34.907 INFO  NServiceBus.PerformanceCounterHelper NServiceBus performance counter for '# of msgs successfully processed / sec' is not set up correctly. To rectify this problem, consult the NServiceBus performance counters documentation.
+2018-11-21 14:51:34.919 INFO  NServiceBus.PerformanceCounterHelper NServiceBus performance counter for '# of msgs failures / sec' is not set up correctly. To rectify this problem, consult the NServiceBus performance counters documentation.
+2018-11-21 15:05:40.139 INFO  DefaultFactory Logging to 'D:\MyProg\NServicebusTest\TestNservicebus\TestNservicebus\bin\Debug\' with level Info
+2018-11-21 15:05:40.250 INFO  NServiceBus.LicenseManager No valid license could be found, falling back to trial license with start date '25.09.2018'
+
+2018-11-21 15:05:40.262 WARN  NServiceBus.LicenseManager Trial for the Particular Service Platform has expired.
+2018-11-21 15:05:42.022 INFO  NServiceBus.PerformanceMonitorUsersInstaller Skipped adding user 'EASTWIND\o.solovichenko' to group 'Пользователи системного монитора' because the user is already in group.
+2018-11-21 15:05:42.064 INFO  NServiceBus.PerformanceCounterHelper NServiceBus performance counter for '# of msgs pulled from the input queue /sec' is not set up correctly. To rectify this problem, consult the NServiceBus performance counters documentation.
+2018-11-21 15:05:42.075 INFO  NServiceBus.PerformanceCounterHelper NServiceBus performance counter for '# of msgs successfully processed / sec' is not set up correctly. To rectify this problem, consult the NServiceBus performance counters documentation.
+2018-11-21 15:05:42.085 INFO  NServiceBus.PerformanceCounterHelper NServiceBus performance counter for '# of msgs failures / sec' is not set up correctly. To rectify this problem, consult the NServiceBus performance counters documentation.
+2018-11-21 15:06:12.791 INFO  DefaultFactory Logging to 'D:\MyProg\NServicebusTest\TestNservicebus\TestNservicebus\bin\Debug\' with level Info
+2018-11-21 15:06:12.902 INFO  NServiceBus.LicenseManager No valid license could be found, falling back to trial license with start date '25.09.2018'
+
+2018-11-21 15:06:12.911 WARN  NServiceBus.LicenseManager Trial for the Particular Service Platform has expired.
+2018-11-21 15:06:14.790 INFO  NServiceBus.PerformanceMonitorUsersInstaller Skipped adding user 'EASTWIND\o.solovichenko' to group 'Пользователи системного монитора' because the user is already in group.
+2018-11-21 15:06:14.862 INFO  NServiceBus.PerformanceCounterHelper NServiceBus performance counter for '# of msgs pulled from the input queue /sec' is not set up correctly. To rectify this problem, consult the NServiceBus performance counters documentation.
+2018-11-21 15:06:14.874 INFO  NServiceBus.PerformanceCounterHelper NServiceBus performance counter for '# of msgs successfully processed / sec' is not set up correctly. To rectify this problem, consult the NServiceBus performance counters documentation.
+2018-11-21 15:06:14.885 INFO  NServiceBus.PerformanceCounterHelper NServiceBus performance counter for '# of msgs failures / sec' is not set up correctly. To rectify this problem, consult the NServiceBus performance counters documentation.
+2018-11-21 15:08:26.760 INFO  DefaultFactory Logging to 'D:\MyProg\NServicebusTest\TestNservicebus\TestNservicebus\bin\Debug\' with level Info
+2018-11-21 15:08:26.873 INFO  NServiceBus.LicenseManager No valid license could be found, falling back to trial license with start date '25.09.2018'
+
+2018-11-21 15:08:26.884 WARN  NServiceBus.LicenseManager Trial for the Particular Service Platform has expired.
+2018-11-21 15:08:28.808 INFO  NServiceBus.PerformanceMonitorUsersInstaller Skipped adding user 'EASTWIND\o.solovichenko' to group 'Пользователи системного монитора' because the user is already in group.
+2018-11-21 15:08:28.846 INFO  NServiceBus.PerformanceCounterHelper NServiceBus performance counter for '# of msgs pulled from the input queue /sec' is not set up correctly. To rectify this problem, consult the NServiceBus performance counters documentation.
+2018-11-21 15:08:28.855 INFO  NServiceBus.PerformanceCounterHelper NServiceBus performance counter for '# of msgs successfully processed / sec' is not set up correctly. To rectify this problem, consult the NServiceBus performance counters documentation.
+2018-11-21 15:08:28.869 INFO  NServiceBus.PerformanceCounterHelper NServiceBus performance counter for '# of msgs failures / sec' is not set up correctly. To rectify this problem, consult the NServiceBus performance counters documentation.
+2018-11-21 15:08:32.023 INFO  NServiceBus.Unicast.UnicastBus Initiating shutdown.
+2018-11-21 15:08:32.042 INFO  NServiceBus.Unicast.UnicastBus Shutdown complete.
+2018-11-21 15:40:10.741 INFO  DefaultFactory Logging to 'D:\MyProg\NServicebusTest\TestNservicebus\TestNservicebus\bin\Debug\' with level Info
+2018-11-21 15:40:10.861 INFO  NServiceBus.LicenseManager No valid license could be found, falling back to trial license with start date '25.09.2018'
+
+2018-11-21 15:40:10.873 WARN  NServiceBus.LicenseManager Trial for the Particular Service Platform has expired.
+2018-11-21 15:40:13.054 INFO  NServiceBus.PerformanceMonitorUsersInstaller Skipped adding user 'EASTWIND\o.solovichenko' to group 'Пользователи системного монитора' because the user is already in group.
+2018-11-21 15:40:13.095 INFO  NServiceBus.PerformanceCounterHelper NServiceBus performance counter for '# of msgs pulled from the input queue /sec' is not set up correctly. To rectify this problem, consult the NServiceBus performance counters documentation.
+2018-11-21 15:40:13.106 INFO  NServiceBus.PerformanceCounterHelper NServiceBus performance counter for '# of msgs successfully processed / sec' is not set up correctly. To rectify this problem, consult the NServiceBus performance counters documentation.
+2018-11-21 15:40:13.117 INFO  NServiceBus.PerformanceCounterHelper NServiceBus performance counter for '# of msgs failures / sec' is not set up correctly. To rectify this problem, consult the NServiceBus performance counters documentation.
+2018-11-21 15:40:15.100 INFO  NServiceBus.Unicast.UnicastBus Initiating shutdown.
+2018-11-21 15:40:15.120 INFO  NServiceBus.Unicast.UnicastBus Shutdown complete.
+2018-11-21 15:40:53.316 INFO  DefaultFactory Logging to 'D:\MyProg\NServicebusTest\TestNservicebus\TestNservicebus\bin\Debug\' with level Info
+2018-11-21 15:40:53.429 INFO  NServiceBus.LicenseManager No valid license could be found, falling back to trial license with start date '25.09.2018'
+
+2018-11-21 15:40:53.439 WARN  NServiceBus.LicenseManager Trial for the Particular Service Platform has expired.
+2018-11-21 15:40:55.301 INFO  NServiceBus.PerformanceMonitorUsersInstaller Skipped adding user 'EASTWIND\o.solovichenko' to group 'Пользователи системного монитора' because the user is already in group.
+2018-11-21 15:40:55.348 INFO  NServiceBus.PerformanceCounterHelper NServiceBus performance counter for '# of msgs pulled from the input queue /sec' is not set up correctly. To rectify this problem, consult the NServiceBus performance counters documentation.
+2018-11-21 15:40:55.361 INFO  NServiceBus.PerformanceCounterHelper NServiceBus performance counter for '# of msgs successfully processed / sec' is not set up correctly. To rectify this problem, consult the NServiceBus performance counters documentation.
+2018-11-21 15:40:55.371 INFO  NServiceBus.PerformanceCounterHelper NServiceBus performance counter for '# of msgs failures / sec' is not set up correctly. To rectify this problem, consult the NServiceBus performance counters documentation.
+2018-11-21 15:40:57.643 INFO  NServiceBus.Unicast.UnicastBus Initiating shutdown.
+2018-11-21 15:40:57.662 INFO  NServiceBus.Unicast.UnicastBus Shutdown complete.
+2018-11-21 15:41:41.784 INFO  DefaultFactory Logging to 'D:\MyProg\NServicebusTest\TestNservicebus\TestNservicebus\bin\Debug\' with level Info
+2018-11-21 15:41:41.894 INFO  NServiceBus.LicenseManager No valid license could be found, falling back to trial license with start date '25.09.2018'
+
+2018-11-21 15:41:41.905 WARN  NServiceBus.LicenseManager Trial for the Particular Service Platform has expired.
+2018-11-21 15:41:43.779 INFO  NServiceBus.PerformanceMonitorUsersInstaller Skipped adding user 'EASTWIND\o.solovichenko' to group 'Пользователи системного монитора' because the user is already in group.
+2018-11-21 15:41:43.819 INFO  NServiceBus.PerformanceCounterHelper NServiceBus performance counter for '# of msgs pulled from the input queue /sec' is not set up correctly. To rectify this problem, consult the NServiceBus performance counters documentation.
+2018-11-21 15:41:43.832 INFO  NServiceBus.PerformanceCounterHelper NServiceBus performance counter for '# of msgs successfully processed / sec' is not set up correctly. To rectify this problem, consult the NServiceBus performance counters documentation.
+2018-11-21 15:41:43.844 INFO  NServiceBus.PerformanceCounterHelper NServiceBus performance counter for '# of msgs failures / sec' is not set up correctly. To rectify this problem, consult the NServiceBus performance counters documentation.
+2018-11-21 15:41:59.683 INFO  DefaultFactory Logging to 'D:\MyProg\NServicebusTest\TestNservicebus\TestNservicebus\bin\Debug\' with level Info
+2018-11-21 15:41:59.791 INFO  NServiceBus.LicenseManager No valid license could be found, falling back to trial license with start date '25.09.2018'
+
+2018-11-21 15:41:59.802 WARN  NServiceBus.LicenseManager Trial for the Particular Service Platform has expired.
+2018-11-21 15:42:01.803 INFO  NServiceBus.PerformanceMonitorUsersInstaller Skipped adding user 'EASTWIND\o.solovichenko' to group 'Пользователи системного монитора' because the user is already in group.
+2018-11-21 15:42:01.849 INFO  NServiceBus.PerformanceCounterHelper NServiceBus performance counter for '# of msgs pulled from the input queue /sec' is not set up correctly. To rectify this problem, consult the NServiceBus performance counters documentation.
+2018-11-21 15:42:01.861 INFO  NServiceBus.PerformanceCounterHelper NServiceBus performance counter for '# of msgs successfully processed / sec' is not set up correctly. To rectify this problem, consult the NServiceBus performance counters documentation.
+2018-11-21 15:42:01.870 INFO  NServiceBus.PerformanceCounterHelper NServiceBus performance counter for '# of msgs failures / sec' is not set up correctly. To rectify this problem, consult the NServiceBus performance counters documentation.
+2018-11-21 15:42:03.466 INFO  NServiceBus.Unicast.UnicastBus Initiating shutdown.
+2018-11-21 15:42:03.484 INFO  NServiceBus.Unicast.UnicastBus Shutdown complete.
+2018-11-21 15:54:15.308 INFO  DefaultFactory Logging to 'D:\MyProg\NServicebusTest\TestNservicebus\TestNservicebus\bin\Debug\' with level Info
+2018-11-21 15:54:15.440 INFO  NServiceBus.LicenseManager No valid license could be found, falling back to trial license with start date '25.09.2018'
+
+2018-11-21 15:54:15.463 WARN  NServiceBus.LicenseManager Trial for the Particular Service Platform has expired.
+2018-11-21 15:54:17.598 INFO  NServiceBus.PerformanceMonitorUsersInstaller Skipped adding user 'EASTWIND\o.solovichenko' to group 'Пользователи системного монитора' because the user is already in group.
+2018-11-21 15:54:17.662 INFO  NServiceBus.PerformanceCounterHelper NServiceBus performance counter for '# of msgs pulled from the input queue /sec' is not set up correctly. To rectify this problem, consult the NServiceBus performance counters documentation.
+2018-11-21 15:54:17.678 INFO  NServiceBus.PerformanceCounterHelper NServiceBus performance counter for '# of msgs successfully processed / sec' is not set up correctly. To rectify this problem, consult the NServiceBus performance counters documentation.
+2018-11-21 15:54:17.690 INFO  NServiceBus.PerformanceCounterHelper NServiceBus performance counter for '# of msgs failures / sec' is not set up correctly. To rectify this problem, consult the NServiceBus performance counters documentation.
+2018-11-21 15:54:21.165 INFO  NServiceBus.Unicast.UnicastBus Initiating shutdown.
+2018-11-21 15:54:21.186 INFO  NServiceBus.Unicast.UnicastBus Shutdown complete.
+2018-11-21 17:36:55.350 INFO  DefaultFactory Logging to 'D:\MyProg\NServicebusTest\TestNservicebus\TestNservicebus\bin\Debug\' with level Info
+2018-11-21 17:36:55.491 INFO  NServiceBus.LicenseManager No valid license could be found, falling back to trial license with start date '25.09.2018'
+
+2018-11-21 17:36:55.502 WARN  NServiceBus.LicenseManager Trial for the Particular Service Platform has expired.
+2018-11-21 17:37:19.609 INFO  DefaultFactory Logging to 'D:\MyProg\NServicebusTest\TestNservicebus\TestNservicebus\bin\Debug\' with level Info
+2018-11-21 17:37:19.724 INFO  NServiceBus.LicenseManager No valid license could be found, falling back to trial license with start date '25.09.2018'
+
+2018-11-21 17:37:19.735 WARN  NServiceBus.LicenseManager Trial for the Particular Service Platform has expired.
+2018-11-21 17:37:20.264 INFO  NServiceBus.PerformanceMonitorUsersInstaller Skipped adding user 'EASTWIND\o.solovichenko' to group 'Пользователи системного монитора' because the user is already in group.
+2018-11-21 17:37:20.319 INFO  NServiceBus.PerformanceCounterHelper NServiceBus performance counter for '# of msgs pulled from the input queue /sec' is not set up correctly. To rectify this problem, consult the NServiceBus performance counters documentation.
+2018-11-21 17:37:20.331 INFO  NServiceBus.PerformanceCounterHelper NServiceBus performance counter for '# of msgs successfully processed / sec' is not set up correctly. To rectify this problem, consult the NServiceBus performance counters documentation.
+2018-11-21 17:37:20.343 INFO  NServiceBus.PerformanceCounterHelper NServiceBus performance counter for '# of msgs failures / sec' is not set up correctly. To rectify this problem, consult the NServiceBus performance counters documentation.
+2018-11-21 17:37:33.836 INFO  NServiceBus.Unicast.UnicastBus Initiating shutdown.
+2018-11-21 17:37:33.863 INFO  NServiceBus.Unicast.UnicastBus Shutdown complete.
+2018-11-21 17:37:58.526 INFO  DefaultFactory Logging to 'D:\MyProg\NServicebusTest\TestNservicebus\TestNservicebus\bin\Debug\' with level Info
+2018-11-21 17:37:58.668 INFO  NServiceBus.LicenseManager No valid license could be found, falling back to trial license with start date '25.09.2018'
+
+2018-11-21 17:37:58.680 WARN  NServiceBus.LicenseManager Trial for the Particular Service Platform has expired.
+2018-11-21 17:37:59.275 INFO  NServiceBus.PerformanceMonitorUsersInstaller Skipped adding user 'EASTWIND\o.solovichenko' to group 'Пользователи системного монитора' because the user is already in group.
+2018-11-21 17:37:59.333 INFO  NServiceBus.PerformanceCounterHelper NServiceBus performance counter for '# of msgs pulled from the input queue /sec' is not set up correctly. To rectify this problem, consult the NServiceBus performance counters documentation.
+2018-11-21 17:37:59.346 INFO  NServiceBus.PerformanceCounterHelper NServiceBus performance counter for '# of msgs successfully processed / sec' is not set up correctly. To rectify this problem, consult the NServiceBus performance counters documentation.
+2018-11-21 17:37:59.357 INFO  NServiceBus.PerformanceCounterHelper NServiceBus performance counter for '# of msgs failures / sec' is not set up correctly. To rectify this problem, consult the NServiceBus performance counters documentation.
+2018-11-21 17:37:59.480 INFO  NServiceBus.Unicast.UnicastBus Initiating shutdown.
+2018-11-21 17:37:59.504 INFO  NServiceBus.Unicast.UnicastBus Shutdown complete.
+2018-11-21 17:38:41.730 INFO  DefaultFactory Logging to 'D:\MyProg\NServicebusTest\TestNservicebus\TestNservicebus\bin\Debug\' with level Info
+2018-11-21 17:38:41.835 INFO  NServiceBus.LicenseManager No valid license could be found, falling back to trial license with start date '25.09.2018'
+
+2018-11-21 17:38:41.846 WARN  NServiceBus.LicenseManager Trial for the Particular Service Platform has expired.
+2018-11-21 17:38:42.377 INFO  NServiceBus.PerformanceMonitorUsersInstaller Skipped adding user 'EASTWIND\o.solovichenko' to group 'Пользователи системного монитора' because the user is already in group.
+2018-11-21 17:38:42.430 INFO  NServiceBus.PerformanceCounterHelper NServiceBus performance counter for '# of msgs pulled from the input queue /sec' is not set up correctly. To rectify this problem, consult the NServiceBus performance counters documentation.
+2018-11-21 17:38:42.440 INFO  NServiceBus.PerformanceCounterHelper NServiceBus performance counter for '# of msgs successfully processed / sec' is not set up correctly. To rectify this problem, consult the NServiceBus performance counters documentation.
+2018-11-21 17:38:42.451 INFO  NServiceBus.PerformanceCounterHelper NServiceBus performance counter for '# of msgs failures / sec' is not set up correctly. To rectify this problem, consult the NServiceBus performance counters documentation.
+2018-11-21 17:38:42.585 INFO  NServiceBus.Unicast.UnicastBus Initiating shutdown.
+2018-11-21 17:38:42.607 INFO  NServiceBus.Unicast.UnicastBus Shutdown complete.
+2018-11-21 17:39:31.372 INFO  DefaultFactory Logging to 'D:\MyProg\NServicebusTest\TestNservicebus\TestNservicebus\bin\Debug\' with level Info
+2018-11-21 17:39:31.487 INFO  NServiceBus.LicenseManager No valid license could be found, falling back to trial license with start date '25.09.2018'
+
+2018-11-21 17:39:31.498 WARN  NServiceBus.LicenseManager Trial for the Particular Service Platform has expired.
+2018-11-21 17:39:32.042 INFO  NServiceBus.PerformanceMonitorUsersInstaller Skipped adding user 'EASTWIND\o.solovichenko' to group 'Пользователи системного монитора' because the user is already in group.
+2018-11-21 17:39:32.090 INFO  NServiceBus.PerformanceCounterHelper NServiceBus performance counter for '# of msgs pulled from the input queue /sec' is not set up correctly. To rectify this problem, consult the NServiceBus performance counters documentation.
+2018-11-21 17:39:32.102 INFO  NServiceBus.PerformanceCounterHelper NServiceBus performance counter for '# of msgs successfully processed / sec' is not set up correctly. To rectify this problem, consult the NServiceBus performance counters documentation.
+2018-11-21 17:39:32.111 INFO  NServiceBus.PerformanceCounterHelper NServiceBus performance counter for '# of msgs failures / sec' is not set up correctly. To rectify this problem, consult the NServiceBus performance counters documentation.
+2018-11-21 17:39:32.225 INFO  NServiceBus.Unicast.UnicastBus Initiating shutdown.
+2018-11-21 17:39:32.248 INFO  NServiceBus.Unicast.UnicastBus Shutdown complete.
+2018-11-21 17:39:45.459 INFO  NServiceBus.LicenseManager No valid license could be found, falling back to trial license with start date '25.09.2018'
+
+2018-11-21 17:39:45.470 WARN  NServiceBus.LicenseManager Trial for the Particular Service Platform has expired.
+2018-11-21 17:39:47.279 INFO  NServiceBus.PerformanceMonitorUsersInstaller Skipped adding user 'EASTWIND\o.solovichenko' to group 'Пользователи системного монитора' because the user is already in group.
+2018-11-21 17:39:47.294 INFO  NServiceBus.PerformanceCounterHelper NServiceBus performance counter for '# of msgs pulled from the input queue /sec' is not set up correctly. To rectify this problem, consult the NServiceBus performance counters documentation.
+2018-11-21 17:39:47.304 INFO  NServiceBus.PerformanceCounterHelper NServiceBus performance counter for '# of msgs successfully processed / sec' is not set up correctly. To rectify this problem, consult the NServiceBus performance counters documentation.
+2018-11-21 17:39:47.316 INFO  NServiceBus.PerformanceCounterHelper NServiceBus performance counter for '# of msgs failures / sec' is not set up correctly. To rectify this problem, consult the NServiceBus performance counters documentation.
+2018-11-21 17:39:47.336 INFO  NServiceBus.Unicast.UnicastBus Initiating shutdown.
+2018-11-21 17:39:47.348 INFO  NServiceBus.Unicast.UnicastBus Shutdown complete.
+2018-11-21 17:39:50.043 INFO  NServiceBus.LicenseManager No valid license could be found, falling back to trial license with start date '25.09.2018'
+
+2018-11-21 17:39:50.053 WARN  NServiceBus.LicenseManager Trial for the Particular Service Platform has expired.
+2018-11-21 17:39:51.551 INFO  NServiceBus.PerformanceMonitorUsersInstaller Skipped adding user 'EASTWIND\o.solovichenko' to group 'Пользователи системного монитора' because the user is already in group.
+2018-11-21 17:39:51.565 INFO  NServiceBus.PerformanceCounterHelper NServiceBus performance counter for '# of msgs pulled from the input queue /sec' is not set up correctly. To rectify this problem, consult the NServiceBus performance counters documentation.
+2018-11-21 17:39:51.577 INFO  NServiceBus.PerformanceCounterHelper NServiceBus performance counter for '# of msgs successfully processed / sec' is not set up correctly. To rectify this problem, consult the NServiceBus performance counters documentation.
+2018-11-21 17:39:51.592 INFO  NServiceBus.PerformanceCounterHelper NServiceBus performance counter for '# of msgs failures / sec' is not set up correctly. To rectify this problem, consult the NServiceBus performance counters documentation.
+2018-11-21 17:39:51.613 INFO  NServiceBus.Unicast.UnicastBus Initiating shutdown.
+2018-11-21 17:39:51.625 INFO  NServiceBus.Unicast.UnicastBus Shutdown complete.
+2018-11-21 17:41:29.049 INFO  DefaultFactory Logging to 'D:\MyProg\NServicebusTest\TestNservicebus\TestNservicebus\bin\Debug\' with level Info
+2018-11-21 17:41:29.180 INFO  NServiceBus.LicenseManager No valid license could be found, falling back to trial license with start date '25.09.2018'
+
+2018-11-21 17:41:29.194 WARN  NServiceBus.LicenseManager Trial for the Particular Service Platform has expired.
+2018-11-21 17:41:29.749 INFO  NServiceBus.PerformanceMonitorUsersInstaller Skipped adding user 'EASTWIND\o.solovichenko' to group 'Пользователи системного монитора' because the user is already in group.
+2018-11-21 17:41:29.789 INFO  NServiceBus.PerformanceCounterHelper NServiceBus performance counter for '# of msgs pulled from the input queue /sec' is not set up correctly. To rectify this problem, consult the NServiceBus performance counters documentation.
+2018-11-21 17:41:29.800 INFO  NServiceBus.PerformanceCounterHelper NServiceBus performance counter for '# of msgs successfully processed / sec' is not set up correctly. To rectify this problem, consult the NServiceBus performance counters documentation.
+2018-11-21 17:41:29.812 INFO  NServiceBus.PerformanceCounterHelper NServiceBus performance counter for '# of msgs failures / sec' is not set up correctly. To rectify this problem, consult the NServiceBus performance counters documentation.
+2018-11-21 17:41:29.942 INFO  NServiceBus.Unicast.UnicastBus Initiating shutdown.
+2018-11-21 17:41:29.965 INFO  NServiceBus.Unicast.UnicastBus Shutdown complete.
+2018-11-21 17:41:35.365 INFO  NServiceBus.LicenseManager No valid license could be found, falling back to trial license with start date '25.09.2018'
+
+2018-11-21 17:41:35.375 WARN  NServiceBus.LicenseManager Trial for the Particular Service Platform has expired.
+2018-11-21 17:41:36.954 INFO  NServiceBus.PerformanceMonitorUsersInstaller Skipped adding user 'EASTWIND\o.solovichenko' to group 'Пользователи системного монитора' because the user is already in group.
+2018-11-21 17:41:36.967 INFO  NServiceBus.PerformanceCounterHelper NServiceBus performance counter for '# of msgs pulled from the input queue /sec' is not set up correctly. To rectify this problem, consult the NServiceBus performance counters documentation.
+2018-11-21 17:41:36.979 INFO  NServiceBus.PerformanceCounterHelper NServiceBus performance counter for '# of msgs successfully processed / sec' is not set up correctly. To rectify this problem, consult the NServiceBus performance counters documentation.
+2018-11-21 17:41:36.991 INFO  NServiceBus.PerformanceCounterHelper NServiceBus performance counter for '# of msgs failures / sec' is not set up correctly. To rectify this problem, consult the NServiceBus performance counters documentation.
+2018-11-21 17:41:37.011 INFO  NServiceBus.Unicast.UnicastBus Initiating shutdown.
+2018-11-21 17:41:37.024 INFO  NServiceBus.Unicast.UnicastBus Shutdown complete.
+2018-11-21 17:41:46.911 INFO  NServiceBus.LicenseManager No valid license could be found, falling back to trial license with start date '25.09.2018'
+
+2018-11-21 17:41:46.925 WARN  NServiceBus.LicenseManager Trial for the Particular Service Platform has expired.
+2018-11-21 17:41:49.393 INFO  NServiceBus.PerformanceMonitorUsersInstaller Skipped adding user 'EASTWIND\o.solovichenko' to group 'Пользователи системного монитора' because the user is already in group.
+2018-11-21 17:41:49.410 INFO  NServiceBus.PerformanceCounterHelper NServiceBus performance counter for '# of msgs pulled from the input queue /sec' is not set up correctly. To rectify this problem, consult the NServiceBus performance counters documentation.
+2018-11-21 17:41:49.420 INFO  NServiceBus.PerformanceCounterHelper NServiceBus performance counter for '# of msgs successfully processed / sec' is not set up correctly. To rectify this problem, consult the NServiceBus performance counters documentation.
+2018-11-21 17:41:49.435 INFO  NServiceBus.PerformanceCounterHelper NServiceBus performance counter for '# of msgs failures / sec' is not set up correctly. To rectify this problem, consult the NServiceBus performance counters documentation.
+2018-11-21 17:41:49.456 INFO  NServiceBus.Unicast.UnicastBus Initiating shutdown.
+2018-11-21 17:41:49.473 INFO  NServiceBus.Unicast.UnicastBus Shutdown complete.
+2018-11-21 17:42:10.605 INFO  NServiceBus.LicenseManager No valid license could be found, falling back to trial license with start date '25.09.2018'
+
+2018-11-21 17:42:10.620 WARN  NServiceBus.LicenseManager Trial for the Particular Service Platform has expired.
+2018-11-21 17:42:12.181 INFO  NServiceBus.PerformanceMonitorUsersInstaller Skipped adding user 'EASTWIND\o.solovichenko' to group 'Пользователи системного монитора' because the user is already in group.
+2018-11-21 17:42:12.194 INFO  NServiceBus.PerformanceCounterHelper NServiceBus performance counter for '# of msgs pulled from the input queue /sec' is not set up correctly. To rectify this problem, consult the NServiceBus performance counters documentation.
+2018-11-21 17:42:12.205 INFO  NServiceBus.PerformanceCounterHelper NServiceBus performance counter for '# of msgs successfully processed / sec' is not set up correctly. To rectify this problem, consult the NServiceBus performance counters documentation.
+2018-11-21 17:42:12.215 INFO  NServiceBus.PerformanceCounterHelper NServiceBus performance counter for '# of msgs failures / sec' is not set up correctly. To rectify this problem, consult the NServiceBus performance counters documentation.
+2018-11-21 17:42:12.397 INFO  NServiceBus.Unicast.UnicastBus Initiating shutdown.
+2018-11-21 17:42:12.418 INFO  NServiceBus.Unicast.UnicastBus Shutdown complete.
+2018-11-21 17:42:13.854 INFO  NServiceBus.LicenseManager No valid license could be found, falling back to trial license with start date '25.09.2018'
+
+2018-11-21 17:42:13.880 WARN  NServiceBus.LicenseManager Trial for the Particular Service Platform has expired.
+2018-11-21 17:42:14.944 INFO  NServiceBus.PerformanceMonitorUsersInstaller Skipped adding user 'EASTWIND\o.solovichenko' to group 'Пользователи системного монитора' because the user is already in group.
+2018-11-21 17:42:14.960 INFO  NServiceBus.PerformanceCounterHelper NServiceBus performance counter for '# of msgs pulled from the input queue /sec' is not set up correctly. To rectify this problem, consult the NServiceBus performance counters documentation.
+2018-11-21 17:42:14.971 INFO  NServiceBus.PerformanceCounterHelper NServiceBus performance counter for '# of msgs successfully processed / sec' is not set up correctly. To rectify this problem, consult the NServiceBus performance counters documentation.
+2018-11-21 17:42:14.981 INFO  NServiceBus.PerformanceCounterHelper NServiceBus performance counter for '# of msgs failures / sec' is not set up correctly. To rectify this problem, consult the NServiceBus performance counters documentation.
+2018-11-21 17:42:15.007 INFO  NServiceBus.Unicast.UnicastBus Initiating shutdown.
+2018-11-21 17:42:15.020 INFO  NServiceBus.Unicast.UnicastBus Shutdown complete.
+2018-11-21 17:43:16.148 INFO  DefaultFactory Logging to 'D:\MyProg\NServicebusTest\TestNservicebus\TestNservicebus\bin\Debug\' with level Info
+2018-11-21 17:43:58.009 INFO  DefaultFactory Logging to 'D:\MyProg\NServicebusTest\TestNservicebus\TestNservicebus\bin\Debug\' with level Info
+2018-11-21 17:43:58.128 INFO  NServiceBus.LicenseManager No valid license could be found, falling back to trial license with start date '25.09.2018'
+
+2018-11-21 17:43:58.140 WARN  NServiceBus.LicenseManager Trial for the Particular Service Platform has expired.
+2018-11-21 17:43:58.723 INFO  NServiceBus.PerformanceMonitorUsersInstaller Skipped adding user 'EASTWIND\o.solovichenko' to group 'Пользователи системного монитора' because the user is already in group.
+2018-11-21 17:43:58.764 INFO  NServiceBus.PerformanceCounterHelper NServiceBus performance counter for '# of msgs pulled from the input queue /sec' is not set up correctly. To rectify this problem, consult the NServiceBus performance counters documentation.
+2018-11-21 17:43:58.775 INFO  NServiceBus.PerformanceCounterHelper NServiceBus performance counter for '# of msgs successfully processed / sec' is not set up correctly. To rectify this problem, consult the NServiceBus performance counters documentation.
+2018-11-21 17:43:58.786 INFO  NServiceBus.PerformanceCounterHelper NServiceBus performance counter for '# of msgs failures / sec' is not set up correctly. To rectify this problem, consult the NServiceBus performance counters documentation.
+2018-11-21 17:43:59.074 INFO  NServiceBus.Unicast.UnicastBus Initiating shutdown.
+2018-11-21 17:43:59.097 INFO  NServiceBus.Unicast.UnicastBus Shutdown complete.
+2018-11-21 17:44:38.061 INFO  DefaultFactory Logging to 'D:\MyProg\NServicebusTest\TestNservicebus\TestNservicebus\bin\Debug\' with level Info
+2018-11-21 17:44:38.189 INFO  NServiceBus.LicenseManager No valid license could be found, falling back to trial license with start date '25.09.2018'
+
+2018-11-21 17:44:38.200 WARN  NServiceBus.LicenseManager Trial for the Particular Service Platform has expired.
+2018-11-21 17:44:38.797 INFO  NServiceBus.PerformanceMonitorUsersInstaller Skipped adding user 'EASTWIND\o.solovichenko' to group 'Пользователи системного монитора' because the user is already in group.
+2018-11-21 17:44:38.840 INFO  NServiceBus.PerformanceCounterHelper NServiceBus performance counter for '# of msgs pulled from the input queue /sec' is not set up correctly. To rectify this problem, consult the NServiceBus performance counters documentation.
+2018-11-21 17:44:38.852 INFO  NServiceBus.PerformanceCounterHelper NServiceBus performance counter for '# of msgs successfully processed / sec' is not set up correctly. To rectify this problem, consult the NServiceBus performance counters documentation.
+2018-11-21 17:44:38.862 INFO  NServiceBus.PerformanceCounterHelper NServiceBus performance counter for '# of msgs failures / sec' is not set up correctly. To rectify this problem, consult the NServiceBus performance counters documentation.
+2018-11-21 17:44:39.007 INFO  NServiceBus.Unicast.UnicastBus Initiating shutdown.
+2018-11-21 17:44:39.028 INFO  NServiceBus.Unicast.UnicastBus Shutdown complete.
+2018-11-21 17:46:05.455 INFO  NServiceBus.LicenseManager No valid license could be found, falling back to trial license with start date '25.09.2018'
+
+2018-11-21 17:46:05.466 WARN  NServiceBus.LicenseManager Trial for the Particular Service Platform has expired.
+2018-11-21 17:46:12.238 INFO  NServiceBus.PerformanceMonitorUsersInstaller Skipped adding user 'EASTWIND\o.solovichenko' to group 'Пользователи системного монитора' because the user is already in group.
+2018-11-21 17:46:12.251 INFO  NServiceBus.PerformanceCounterHelper NServiceBus performance counter for '# of msgs pulled from the input queue /sec' is not set up correctly. To rectify this problem, consult the NServiceBus performance counters documentation.
+2018-11-21 17:46:12.263 INFO  NServiceBus.PerformanceCounterHelper NServiceBus performance counter for '# of msgs successfully processed / sec' is not set up correctly. To rectify this problem, consult the NServiceBus performance counters documentation.
+2018-11-21 17:46:12.278 INFO  NServiceBus.PerformanceCounterHelper NServiceBus performance counter for '# of msgs failures / sec' is not set up correctly. To rectify this problem, consult the NServiceBus performance counters documentation.
+2018-11-21 17:46:12.301 INFO  NServiceBus.Unicast.UnicastBus Initiating shutdown.
+2018-11-21 17:46:12.316 INFO  NServiceBus.Unicast.UnicastBus Shutdown complete.
+2018-11-21 17:47:30.146 INFO  DefaultFactory Logging to 'D:\MyProg\NServicebusTest\TestNservicebus\TestNservicebus\bin\Debug\' with level Info
+2018-11-21 17:47:30.308 INFO  NServiceBus.LicenseManager No valid license could be found, falling back to trial license with start date '25.09.2018'
+
+2018-11-21 17:47:30.322 WARN  NServiceBus.LicenseManager Trial for the Particular Service Platform has expired.
+2018-11-21 17:47:32.756 INFO  NServiceBus.PerformanceMonitorUsersInstaller Did not attempt to add user 'EASTWIND\o.solovichenko' to group 'Пользователи системного монитора' since the process is not running with elevated privileges. Processing will continue. To manually perform this action, run the following command from an admin console:
+net localgroup "Пользователи системного монитора" "EASTWIND\o.solovichenko" /add
+2018-11-21 17:47:32.806 INFO  NServiceBus.PerformanceCounterHelper NServiceBus performance counter for '# of msgs pulled from the input queue /sec' is not set up correctly. To rectify this problem, consult the NServiceBus performance counters documentation.
+2018-11-21 17:47:32.820 INFO  NServiceBus.PerformanceCounterHelper NServiceBus performance counter for '# of msgs successfully processed / sec' is not set up correctly. To rectify this problem, consult the NServiceBus performance counters documentation.
+2018-11-21 17:47:32.833 INFO  NServiceBus.PerformanceCounterHelper NServiceBus performance counter for '# of msgs failures / sec' is not set up correctly. To rectify this problem, consult the NServiceBus performance counters documentation.
+2018-11-21 17:47:32.953 INFO  NServiceBus.Unicast.UnicastBus Initiating shutdown.
+2018-11-21 17:47:32.974 INFO  NServiceBus.Unicast.UnicastBus Shutdown complete.
+2018-11-21 17:47:58.093 INFO  NServiceBus.LicenseManager No valid license could be found, falling back to trial license with start date '25.09.2018'
+
+2018-11-21 17:47:58.116 WARN  NServiceBus.LicenseManager Trial for the Particular Service Platform has expired.
+2018-11-21 17:47:59.640 INFO  NServiceBus.PerformanceMonitorUsersInstaller Did not attempt to add user 'EASTWIND\o.solovichenko' to group 'Пользователи системного монитора' since the process is not running with elevated privileges. Processing will continue. To manually perform this action, run the following command from an admin console:
+net localgroup "Пользователи системного монитора" "EASTWIND\o.solovichenko" /add
+2018-11-21 17:47:59.657 INFO  NServiceBus.PerformanceCounterHelper NServiceBus performance counter for '# of msgs pulled from the input queue /sec' is not set up correctly. To rectify this problem, consult the NServiceBus performance counters documentation.
+2018-11-21 17:47:59.673 INFO  NServiceBus.PerformanceCounterHelper NServiceBus performance counter for '# of msgs successfully processed / sec' is not set up correctly. To rectify this problem, consult the NServiceBus performance counters documentation.
+2018-11-21 17:47:59.683 INFO  NServiceBus.PerformanceCounterHelper NServiceBus performance counter for '# of msgs failures / sec' is not set up correctly. To rectify this problem, consult the NServiceBus performance counters documentation.
+2018-11-21 17:47:59.700 INFO  NServiceBus.Unicast.UnicastBus Initiating shutdown.
+2018-11-21 17:47:59.713 INFO  NServiceBus.Unicast.UnicastBus Shutdown complete.
+2018-11-21 17:49:09.623 INFO  NServiceBus.LicenseManager No valid license could be found, falling back to trial license with start date '25.09.2018'
+
+2018-11-21 17:49:09.633 WARN  NServiceBus.LicenseManager Trial for the Particular Service Platform has expired.
+2018-11-21 17:49:11.352 INFO  NServiceBus.PerformanceMonitorUsersInstaller Did not attempt to add user 'EASTWIND\o.solovichenko' to group 'Пользователи системного монитора' since the process is not running with elevated privileges. Processing will continue. To manually perform this action, run the following command from an admin console:
+net localgroup "Пользователи системного монитора" "EASTWIND\o.solovichenko" /add
+2018-11-21 17:49:11.369 INFO  NServiceBus.PerformanceCounterHelper NServiceBus performance counter for '# of msgs pulled from the input queue /sec' is not set up correctly. To rectify this problem, consult the NServiceBus performance counters documentation.
+2018-11-21 17:49:11.384 INFO  NServiceBus.PerformanceCounterHelper NServiceBus performance counter for '# of msgs successfully processed / sec' is not set up correctly. To rectify this problem, consult the NServiceBus performance counters documentation.
+2018-11-21 17:49:11.403 INFO  NServiceBus.PerformanceCounterHelper NServiceBus performance counter for '# of msgs failures / sec' is not set up correctly. To rectify this problem, consult the NServiceBus performance counters documentation.
+2018-11-21 17:49:11.419 INFO  NServiceBus.Unicast.UnicastBus Initiating shutdown.
+2018-11-21 17:49:11.430 INFO  NServiceBus.Unicast.UnicastBus Shutdown complete.
+2018-11-21 17:49:15.120 INFO  NServiceBus.LicenseManager No valid license could be found, falling back to trial license with start date '25.09.2018'
+
+2018-11-21 17:49:15.131 WARN  NServiceBus.LicenseManager Trial for the Particular Service Platform has expired.
+2018-11-21 17:49:16.434 INFO  NServiceBus.PerformanceMonitorUsersInstaller Did not attempt to add user 'EASTWIND\o.solovichenko' to group 'Пользователи системного монитора' since the process is not running with elevated privileges. Processing will continue. To manually perform this action, run the following command from an admin console:
+net localgroup "Пользователи системного монитора" "EASTWIND\o.solovichenko" /add
+2018-11-21 17:49:16.449 INFO  NServiceBus.PerformanceCounterHelper NServiceBus performance counter for '# of msgs pulled from the input queue /sec' is not set up correctly. To rectify this problem, consult the NServiceBus performance counters documentation.
+2018-11-21 17:49:16.462 INFO  NServiceBus.PerformanceCounterHelper NServiceBus performance counter for '# of msgs successfully processed / sec' is not set up correctly. To rectify this problem, consult the NServiceBus performance counters documentation.
+2018-11-21 17:49:16.475 INFO  NServiceBus.PerformanceCounterHelper NServiceBus performance counter for '# of msgs failures / sec' is not set up correctly. To rectify this problem, consult the NServiceBus performance counters documentation.
+2018-11-21 17:49:16.494 INFO  NServiceBus.Unicast.UnicastBus Initiating shutdown.
+2018-11-21 17:49:16.509 INFO  NServiceBus.Unicast.UnicastBus Shutdown complete.
+2018-11-21 17:50:21.717 INFO  NServiceBus.LicenseManager No valid license could be found, falling back to trial license with start date '25.09.2018'
+
+2018-11-21 17:50:21.731 WARN  NServiceBus.LicenseManager Trial for the Particular Service Platform has expired.
+2018-11-21 17:50:23.329 INFO  NServiceBus.PerformanceMonitorUsersInstaller Did not attempt to add user 'EASTWIND\o.solovichenko' to group 'Пользователи системного монитора' since the process is not running with elevated privileges. Processing will continue. To manually perform this action, run the following command from an admin console:
+net localgroup "Пользователи системного монитора" "EASTWIND\o.solovichenko" /add
+2018-11-21 17:50:23.345 INFO  NServiceBus.PerformanceCounterHelper NServiceBus performance counter for '# of msgs pulled from the input queue /sec' is not set up correctly. To rectify this problem, consult the NServiceBus performance counters documentation.
+2018-11-21 17:50:23.357 INFO  NServiceBus.PerformanceCounterHelper NServiceBus performance counter for '# of msgs successfully processed / sec' is not set up correctly. To rectify this problem, consult the NServiceBus performance counters documentation.
+2018-11-21 17:50:23.369 INFO  NServiceBus.PerformanceCounterHelper NServiceBus performance counter for '# of msgs failures / sec' is not set up correctly. To rectify this problem, consult the NServiceBus performance counters documentation.
+2018-11-21 17:50:23.537 INFO  NServiceBus.Unicast.UnicastBus Initiating shutdown.
+2018-11-21 17:50:23.551 INFO  NServiceBus.Unicast.UnicastBus Shutdown complete.
+2018-11-21 17:51:28.832 INFO  NServiceBus.LicenseManager No valid license could be found, falling back to trial license with start date '25.09.2018'
+
+2018-11-21 17:51:28.843 WARN  NServiceBus.LicenseManager Trial for the Particular Service Platform has expired.
+2018-11-21 17:51:30.400 INFO  NServiceBus.PerformanceMonitorUsersInstaller Did not attempt to add user 'EASTWIND\o.solovichenko' to group 'Пользователи системного монитора' since the process is not running with elevated privileges. Processing will continue. To manually perform this action, run the following command from an admin console:
+net localgroup "Пользователи системного монитора" "EASTWIND\o.solovichenko" /add
+2018-11-21 17:51:30.417 INFO  NServiceBus.PerformanceCounterHelper NServiceBus performance counter for '# of msgs pulled from the input queue /sec' is not set up correctly. To rectify this problem, consult the NServiceBus performance counters documentation.
+2018-11-21 17:51:30.429 INFO  NServiceBus.PerformanceCounterHelper NServiceBus performance counter for '# of msgs successfully processed / sec' is not set up correctly. To rectify this problem, consult the NServiceBus performance counters documentation.
+2018-11-21 17:51:30.445 INFO  NServiceBus.PerformanceCounterHelper NServiceBus performance counter for '# of msgs failures / sec' is not set up correctly. To rectify this problem, consult the NServiceBus performance counters documentation.
+2018-11-21 17:51:30.466 INFO  NServiceBus.Unicast.UnicastBus Initiating shutdown.
+2018-11-21 17:51:30.479 INFO  NServiceBus.Unicast.UnicastBus Shutdown complete.
+2018-11-21 17:51:34.732 INFO  NServiceBus.LicenseManager No valid license could be found, falling back to trial license with start date '25.09.2018'
+
+2018-11-21 17:51:34.751 WARN  NServiceBus.LicenseManager Trial for the Particular Service Platform has expired.
+2018-11-21 17:51:36.353 INFO  NServiceBus.PerformanceMonitorUsersInstaller Did not attempt to add user 'EASTWIND\o.solovichenko' to group 'Пользователи системного монитора' since the process is not running with elevated privileges. Processing will continue. To manually perform this action, run the following command from an admin console:
+net localgroup "Пользователи системного монитора" "EASTWIND\o.solovichenko" /add
+2018-11-21 17:51:36.369 INFO  NServiceBus.PerformanceCounterHelper NServiceBus performance counter for '# of msgs pulled from the input queue /sec' is not set up correctly. To rectify this problem, consult the NServiceBus performance counters documentation.
+2018-11-21 17:51:36.379 INFO  NServiceBus.PerformanceCounterHelper NServiceBus performance counter for '# of msgs successfully processed / sec' is not set up correctly. To rectify this problem, consult the NServiceBus performance counters documentation.
+2018-11-21 17:51:36.394 INFO  NServiceBus.PerformanceCounterHelper NServiceBus performance counter for '# of msgs failures / sec' is not set up correctly. To rectify this problem, consult the NServiceBus performance counters documentation.
+2018-11-21 17:51:36.415 INFO  NServiceBus.Unicast.UnicastBus Initiating shutdown.
+2018-11-21 17:51:36.430 INFO  NServiceBus.Unicast.UnicastBus Shutdown complete.
+2018-11-21 17:56:12.062 INFO  NServiceBus.LicenseManager No valid license could be found, falling back to trial license with start date '25.09.2018'
+
+2018-11-21 17:56:12.072 WARN  NServiceBus.LicenseManager Trial for the Particular Service Platform has expired.
+2018-11-21 17:56:13.575 INFO  NServiceBus.PerformanceMonitorUsersInstaller Did not attempt to add user 'EASTWIND\o.solovichenko' to group 'Пользователи системного монитора' since the process is not running with elevated privileges. Processing will continue. To manually perform this action, run the following command from an admin console:
+net localgroup "Пользователи системного монитора" "EASTWIND\o.solovichenko" /add
+2018-11-21 17:56:13.590 INFO  NServiceBus.PerformanceCounterHelper NServiceBus performance counter for '# of msgs pulled from the input queue /sec' is not set up correctly. To rectify this problem, consult the NServiceBus performance counters documentation.
+2018-11-21 17:56:13.603 INFO  NServiceBus.PerformanceCounterHelper NServiceBus performance counter for '# of msgs successfully processed / sec' is not set up correctly. To rectify this problem, consult the NServiceBus performance counters documentation.
+2018-11-21 17:56:13.615 INFO  NServiceBus.PerformanceCounterHelper NServiceBus performance counter for '# of msgs failures / sec' is not set up correctly. To rectify this problem, consult the NServiceBus performance counters documentation.
+2018-11-21 17:56:13.638 INFO  NServiceBus.Unicast.UnicastBus Initiating shutdown.
+2018-11-21 17:56:13.655 INFO  NServiceBus.Unicast.UnicastBus Shutdown complete.
+2018-11-21 17:56:18.694 INFO  NServiceBus.LicenseManager No valid license could be found, falling back to trial license with start date '25.09.2018'
+
+2018-11-21 17:56:18.707 WARN  NServiceBus.LicenseManager Trial for the Particular Service Platform has expired.
+2018-11-21 17:56:19.858 INFO  NServiceBus.PerformanceMonitorUsersInstaller Did not attempt to add user 'EASTWIND\o.solovichenko' to group 'Пользователи системного монитора' since the process is not running with elevated privileges. Processing will continue. To manually perform this action, run the following command from an admin console:
+net localgroup "Пользователи системного монитора" "EASTWIND\o.solovichenko" /add
+2018-11-21 17:56:19.881 INFO  NServiceBus.PerformanceCounterHelper NServiceBus performance counter for '# of msgs pulled from the input queue /sec' is not set up correctly. To rectify this problem, consult the NServiceBus performance counters documentation.
+2018-11-21 17:56:19.896 INFO  NServiceBus.PerformanceCounterHelper NServiceBus performance counter for '# of msgs successfully processed / sec' is not set up correctly. To rectify this problem, consult the NServiceBus performance counters documentation.
+2018-11-21 17:56:19.909 INFO  NServiceBus.PerformanceCounterHelper NServiceBus performance counter for '# of msgs failures / sec' is not set up correctly. To rectify this problem, consult the NServiceBus performance counters documentation.
+2018-11-21 17:56:19.929 INFO  NServiceBus.Unicast.UnicastBus Initiating shutdown.
+2018-11-21 17:56:19.945 INFO  NServiceBus.Unicast.UnicastBus Shutdown complete.
+2018-11-21 18:01:14.712 INFO  DefaultFactory Logging to 'D:\MyProg\NServicebusTest\TestNservicebus\TestNservicebus\bin\Debug\' with level Info
+2018-11-21 18:01:14.820 INFO  NServiceBus.LicenseManager No valid license could be found, falling back to trial license with start date '25.09.2018'
+
+2018-11-21 18:01:14.832 WARN  NServiceBus.LicenseManager Trial for the Particular Service Platform has expired.
+2018-11-21 18:01:16.658 INFO  NServiceBus.PerformanceMonitorUsersInstaller Did not attempt to add user 'EASTWIND\o.solovichenko' to group 'Пользователи системного монитора' since the process is not running with elevated privileges. Processing will continue. To manually perform this action, run the following command from an admin console:
+net localgroup "Пользователи системного монитора" "EASTWIND\o.solovichenko" /add
+2018-11-21 18:01:16.710 INFO  NServiceBus.PerformanceCounterHelper NServiceBus performance counter for '# of msgs pulled from the input queue /sec' is not set up correctly. To rectify this problem, consult the NServiceBus performance counters documentation.
+2018-11-21 18:01:16.724 INFO  NServiceBus.PerformanceCounterHelper NServiceBus performance counter for '# of msgs successfully processed / sec' is not set up correctly. To rectify this problem, consult the NServiceBus performance counters documentation.
+2018-11-21 18:01:16.734 INFO  NServiceBus.PerformanceCounterHelper NServiceBus performance counter for '# of msgs failures / sec' is not set up correctly. To rectify this problem, consult the NServiceBus performance counters documentation.
+2018-11-21 18:01:16.872 INFO  NServiceBus.Unicast.UnicastBus Initiating shutdown.
+2018-11-21 18:01:16.894 INFO  NServiceBus.Unicast.UnicastBus Shutdown complete.
+2018-11-21 18:01:20.521 INFO  NServiceBus.LicenseManager No valid license could be found, falling back to trial license with start date '25.09.2018'
+
+2018-11-21 18:01:20.531 WARN  NServiceBus.LicenseManager Trial for the Particular Service Platform has expired.
+2018-11-21 18:01:22.102 INFO  NServiceBus.PerformanceMonitorUsersInstaller Did not attempt to add user 'EASTWIND\o.solovichenko' to group 'Пользователи системного монитора' since the process is not running with elevated privileges. Processing will continue. To manually perform this action, run the following command from an admin console:
+net localgroup "Пользователи системного монитора" "EASTWIND\o.solovichenko" /add
+2018-11-21 18:01:22.119 INFO  NServiceBus.PerformanceCounterHelper NServiceBus performance counter for '# of msgs pulled from the input queue /sec' is not set up correctly. To rectify this problem, consult the NServiceBus performance counters documentation.
+2018-11-21 18:01:22.130 INFO  NServiceBus.PerformanceCounterHelper NServiceBus performance counter for '# of msgs successfully processed / sec' is not set up correctly. To rectify this problem, consult the NServiceBus performance counters documentation.
+2018-11-21 18:01:22.141 INFO  NServiceBus.PerformanceCounterHelper NServiceBus performance counter for '# of msgs failures / sec' is not set up correctly. To rectify this problem, consult the NServiceBus performance counters documentation.
+2018-11-21 18:01:22.160 INFO  NServiceBus.Unicast.UnicastBus Initiating shutdown.
+2018-11-21 18:01:22.174 INFO  NServiceBus.Unicast.UnicastBus Shutdown complete.
+2018-11-21 18:01:23.801 INFO  NServiceBus.LicenseManager No valid license could be found, falling back to trial license with start date '25.09.2018'
+
+2018-11-21 18:01:23.811 WARN  NServiceBus.LicenseManager Trial for the Particular Service Platform has expired.
+2018-11-21 18:01:25.912 INFO  NServiceBus.PerformanceMonitorUsersInstaller Did not attempt to add user 'EASTWIND\o.solovichenko' to group 'Пользователи системного монитора' since the process is not running with elevated privileges. Processing will continue. To manually perform this action, run the following command from an admin console:
+net localgroup "Пользователи системного монитора" "EASTWIND\o.solovichenko" /add
+2018-11-21 18:01:25.928 INFO  NServiceBus.PerformanceCounterHelper NServiceBus performance counter for '# of msgs pulled from the input queue /sec' is not set up correctly. To rectify this problem, consult the NServiceBus performance counters documentation.
+2018-11-21 18:01:25.940 INFO  NServiceBus.PerformanceCounterHelper NServiceBus performance counter for '# of msgs successfully processed / sec' is not set up correctly. To rectify this problem, consult the NServiceBus performance counters documentation.
+2018-11-21 18:01:25.960 INFO  NServiceBus.PerformanceCounterHelper NServiceBus performance counter for '# of msgs failures / sec' is not set up correctly. To rectify this problem, consult the NServiceBus performance counters documentation.
+2018-11-21 18:01:25.987 INFO  NServiceBus.Unicast.UnicastBus Initiating shutdown.
+2018-11-21 18:01:26.002 INFO  NServiceBus.Unicast.UnicastBus Shutdown complete.

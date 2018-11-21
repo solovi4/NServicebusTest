@@ -5,7 +5,7 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace TestNservicebus
+namespace Subscriber
 {
     class NServicebusManager
     {
@@ -18,11 +18,11 @@ namespace TestNservicebus
             var transport = endpointConfiguration.UseTransport<MsmqTransport>();
             var routing = transport.Routing();
             //routing.RouteToEndpoint(typeof(MyEvent).Assembly, queue);
-           
+            endpointConfiguration.SendFailedMessagesTo("error");
 
-            
 
-            endpointConfiguration.SendOnly();
+
+            //endpointConfiguration.SendOnly();
             endpointConfiguration.EnableInstallers();
 
 

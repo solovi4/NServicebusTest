@@ -1,0 +1,187 @@
+﻿2018-11-21 17:36:55.676 INFO  DefaultFactory Logging to 'D:\MyProg\NServicebusTest\TestNservicebus\Subscriber\bin\Debug\' with level Info
+2018-11-21 17:36:55.786 INFO  NServiceBus.LicenseManager No valid license could be found, falling back to trial license with start date '25.09.2018'
+
+2018-11-21 17:36:55.797 WARN  NServiceBus.LicenseManager Trial for the Particular Service Platform has expired.
+2018-11-21 17:37:19.412 INFO  DefaultFactory Logging to 'D:\MyProg\NServicebusTest\TestNservicebus\Subscriber\bin\Debug\' with level Info
+2018-11-21 17:37:19.525 INFO  NServiceBus.LicenseManager No valid license could be found, falling back to trial license with start date '25.09.2018'
+
+2018-11-21 17:37:19.536 WARN  NServiceBus.LicenseManager Trial for the Particular Service Platform has expired.
+2018-11-21 17:37:35.791 INFO  NServiceBus.PerformanceMonitorUsersInstaller Skipped adding user 'EASTWIND\o.solovichenko' to group 'Пользователи системного монитора' because the user is already in group.
+2018-11-21 17:37:35.831 INFO  NServiceBus.PerformanceCounterHelper NServiceBus performance counter for '# of msgs pulled from the input queue /sec' is not set up correctly. To rectify this problem, consult the NServiceBus performance counters documentation.
+2018-11-21 17:37:35.841 INFO  NServiceBus.PerformanceCounterHelper NServiceBus performance counter for '# of msgs successfully processed / sec' is not set up correctly. To rectify this problem, consult the NServiceBus performance counters documentation.
+2018-11-21 17:37:35.852 INFO  NServiceBus.PerformanceCounterHelper NServiceBus performance counter for '# of msgs failures / sec' is not set up correctly. To rectify this problem, consult the NServiceBus performance counters documentation.
+2018-11-21 17:37:49.199 INFO  NServiceBus.Unicast.UnicastBus Initiating shutdown.
+2018-11-21 17:37:49.223 INFO  NServiceBus.Unicast.UnicastBus Shutdown complete.
+2018-11-21 17:37:58.271 INFO  DefaultFactory Logging to 'D:\MyProg\NServicebusTest\TestNservicebus\Subscriber\bin\Debug\' with level Info
+2018-11-21 17:37:58.372 INFO  NServiceBus.LicenseManager No valid license could be found, falling back to trial license with start date '25.09.2018'
+
+2018-11-21 17:37:58.389 WARN  NServiceBus.LicenseManager Trial for the Particular Service Platform has expired.
+2018-11-21 17:38:06.789 INFO  NServiceBus.PerformanceMonitorUsersInstaller Skipped adding user 'EASTWIND\o.solovichenko' to group 'Пользователи системного монитора' because the user is already in group.
+2018-11-21 17:38:06.836 INFO  NServiceBus.PerformanceCounterHelper NServiceBus performance counter for '# of msgs pulled from the input queue /sec' is not set up correctly. To rectify this problem, consult the NServiceBus performance counters documentation.
+2018-11-21 17:38:06.848 INFO  NServiceBus.PerformanceCounterHelper NServiceBus performance counter for '# of msgs successfully processed / sec' is not set up correctly. To rectify this problem, consult the NServiceBus performance counters documentation.
+2018-11-21 17:38:06.860 INFO  NServiceBus.PerformanceCounterHelper NServiceBus performance counter for '# of msgs failures / sec' is not set up correctly. To rectify this problem, consult the NServiceBus performance counters documentation.
+2018-11-21 17:38:12.243 INFO  NServiceBus.Unicast.UnicastBus Initiating shutdown.
+2018-11-21 17:38:12.264 INFO  NServiceBus.Unicast.UnicastBus Shutdown complete.
+2018-11-21 17:38:41.458 INFO  DefaultFactory Logging to 'D:\MyProg\NServicebusTest\TestNservicebus\Subscriber\bin\Debug\' with level Info
+2018-11-21 17:38:41.589 INFO  NServiceBus.LicenseManager No valid license could be found, falling back to trial license with start date '25.09.2018'
+
+2018-11-21 17:38:41.599 WARN  NServiceBus.LicenseManager Trial for the Particular Service Platform has expired.
+2018-11-21 17:38:43.765 INFO  NServiceBus.PerformanceMonitorUsersInstaller Skipped adding user 'EASTWIND\o.solovichenko' to group 'Пользователи системного монитора' because the user is already in group.
+2018-11-21 17:38:43.825 INFO  NServiceBus.PerformanceCounterHelper NServiceBus performance counter for '# of msgs pulled from the input queue /sec' is not set up correctly. To rectify this problem, consult the NServiceBus performance counters documentation.
+2018-11-21 17:38:43.835 INFO  NServiceBus.PerformanceCounterHelper NServiceBus performance counter for '# of msgs successfully processed / sec' is not set up correctly. To rectify this problem, consult the NServiceBus performance counters documentation.
+2018-11-21 17:38:43.844 INFO  NServiceBus.PerformanceCounterHelper NServiceBus performance counter for '# of msgs failures / sec' is not set up correctly. To rectify this problem, consult the NServiceBus performance counters documentation.
+2018-11-21 17:39:31.210 INFO  DefaultFactory Logging to 'D:\MyProg\NServicebusTest\TestNservicebus\Subscriber\bin\Debug\' with level Info
+2018-11-21 17:39:31.320 INFO  NServiceBus.LicenseManager No valid license could be found, falling back to trial license with start date '25.09.2018'
+
+2018-11-21 17:39:31.328 WARN  NServiceBus.LicenseManager Trial for the Particular Service Platform has expired.
+2018-11-21 17:39:33.199 INFO  NServiceBus.PerformanceMonitorUsersInstaller Skipped adding user 'EASTWIND\o.solovichenko' to group 'Пользователи системного монитора' because the user is already in group.
+2018-11-21 17:39:33.244 INFO  NServiceBus.PerformanceCounterHelper NServiceBus performance counter for '# of msgs pulled from the input queue /sec' is not set up correctly. To rectify this problem, consult the NServiceBus performance counters documentation.
+2018-11-21 17:39:33.256 INFO  NServiceBus.PerformanceCounterHelper NServiceBus performance counter for '# of msgs successfully processed / sec' is not set up correctly. To rectify this problem, consult the NServiceBus performance counters documentation.
+2018-11-21 17:39:33.265 INFO  NServiceBus.PerformanceCounterHelper NServiceBus performance counter for '# of msgs failures / sec' is not set up correctly. To rectify this problem, consult the NServiceBus performance counters documentation.
+2018-11-21 17:41:29.024 INFO  DefaultFactory Logging to 'D:\MyProg\NServicebusTest\TestNservicebus\Subscriber\bin\Debug\' with level Info
+2018-11-21 17:41:29.143 INFO  NServiceBus.LicenseManager No valid license could be found, falling back to trial license with start date '25.09.2018'
+
+2018-11-21 17:41:29.157 WARN  NServiceBus.LicenseManager Trial for the Particular Service Platform has expired.
+2018-11-21 17:41:31.020 INFO  NServiceBus.PerformanceMonitorUsersInstaller Skipped adding user 'EASTWIND\o.solovichenko' to group 'Пользователи системного монитора' because the user is already in group.
+2018-11-21 17:41:31.058 INFO  NServiceBus.PerformanceCounterHelper NServiceBus performance counter for '# of msgs pulled from the input queue /sec' is not set up correctly. To rectify this problem, consult the NServiceBus performance counters documentation.
+2018-11-21 17:41:31.068 INFO  NServiceBus.PerformanceCounterHelper NServiceBus performance counter for '# of msgs successfully processed / sec' is not set up correctly. To rectify this problem, consult the NServiceBus performance counters documentation.
+2018-11-21 17:41:31.079 INFO  NServiceBus.PerformanceCounterHelper NServiceBus performance counter for '# of msgs failures / sec' is not set up correctly. To rectify this problem, consult the NServiceBus performance counters documentation.
+2018-11-21 17:43:16.140 INFO  DefaultFactory Logging to 'D:\MyProg\NServicebusTest\TestNservicebus\Subscriber\bin\Debug\' with level Info
+2018-11-21 17:43:57.822 INFO  DefaultFactory Logging to 'D:\MyProg\NServicebusTest\TestNservicebus\Subscriber\bin\Debug\' with level Info
+2018-11-21 17:43:57.948 INFO  NServiceBus.LicenseManager No valid license could be found, falling back to trial license with start date '25.09.2018'
+
+2018-11-21 17:43:57.960 WARN  NServiceBus.LicenseManager Trial for the Particular Service Platform has expired.
+2018-11-21 17:44:01.657 INFO  NServiceBus.PerformanceMonitorUsersInstaller Skipped adding user 'EASTWIND\o.solovichenko' to group 'Пользователи системного монитора' because the user is already in group.
+2018-11-21 17:44:01.714 WARN  NServiceBus.QueuePermissions Queue [private$\error] is running with [Все] with AccessRights set to [GenericWrite]. Consider setting appropriate permissions, if required by the organization. For more information, consult the documentation.
+2018-11-21 17:44:01.729 WARN  NServiceBus.QueuePermissions Queue [private$\error] is running with [NT AUTHORITY\АНОНИМНЫЙ ВХОД] with AccessRights set to [WriteMessage]. Consider setting appropriate permissions, if required by the organization. For more information, consult the documentation.
+2018-11-21 17:44:01.744 WARN  NServiceBus.QueuePermissions Queue [private$\testproj.queue.Timeouts] is running with [Все] with AccessRights set to [GenericWrite]. Consider setting appropriate permissions, if required by the organization. For more information, consult the documentation.
+2018-11-21 17:44:01.757 WARN  NServiceBus.QueuePermissions Queue [private$\testproj.queue.Timeouts] is running with [NT AUTHORITY\АНОНИМНЫЙ ВХОД] with AccessRights set to [WriteMessage]. Consider setting appropriate permissions, if required by the organization. For more information, consult the documentation.
+2018-11-21 17:44:01.769 WARN  NServiceBus.QueuePermissions Queue [private$\testproj.queue.TimeoutsDispatcher] is running with [Все] with AccessRights set to [GenericWrite]. Consider setting appropriate permissions, if required by the organization. For more information, consult the documentation.
+2018-11-21 17:44:01.780 WARN  NServiceBus.QueuePermissions Queue [private$\testproj.queue.TimeoutsDispatcher] is running with [NT AUTHORITY\АНОНИМНЫЙ ВХОД] with AccessRights set to [WriteMessage]. Consider setting appropriate permissions, if required by the organization. For more information, consult the documentation.
+2018-11-21 17:44:01.791 WARN  NServiceBus.QueuePermissions Queue [private$\testproj.queue.Retries] is running with [Все] with AccessRights set to [GenericWrite]. Consider setting appropriate permissions, if required by the organization. For more information, consult the documentation.
+2018-11-21 17:44:01.802 WARN  NServiceBus.QueuePermissions Queue [private$\testproj.queue.Retries] is running with [NT AUTHORITY\АНОНИМНЫЙ ВХОД] with AccessRights set to [WriteMessage]. Consider setting appropriate permissions, if required by the organization. For more information, consult the documentation.
+2018-11-21 17:44:01.815 WARN  NServiceBus.QueuePermissions Queue [private$\testproj.queue] is running with [Все] with AccessRights set to [GenericWrite]. Consider setting appropriate permissions, if required by the organization. For more information, consult the documentation.
+2018-11-21 17:44:01.826 WARN  NServiceBus.QueuePermissions Queue [private$\testproj.queue] is running with [NT AUTHORITY\АНОНИМНЫЙ ВХОД] with AccessRights set to [WriteMessage]. Consider setting appropriate permissions, if required by the organization. For more information, consult the documentation.
+2018-11-21 17:44:01.844 INFO  NServiceBus.PerformanceCounterHelper NServiceBus performance counter for '# of msgs pulled from the input queue /sec' is not set up correctly. To rectify this problem, consult the NServiceBus performance counters documentation.
+2018-11-21 17:44:01.855 INFO  NServiceBus.PerformanceCounterHelper NServiceBus performance counter for '# of msgs successfully processed / sec' is not set up correctly. To rectify this problem, consult the NServiceBus performance counters documentation.
+2018-11-21 17:44:01.864 INFO  NServiceBus.PerformanceCounterHelper NServiceBus performance counter for '# of msgs failures / sec' is not set up correctly. To rectify this problem, consult the NServiceBus performance counters documentation.
+2018-11-21 17:44:03.155 ERROR NServiceBus.LogErrorOnInvalidLicenseBehavior Your license has expired
+2018-11-21 17:44:03.155 ERROR NServiceBus.LogErrorOnInvalidLicenseBehavior Your license has expired
+2018-11-21 17:44:03.155 ERROR NServiceBus.LogErrorOnInvalidLicenseBehavior Your license has expired
+2018-11-21 17:44:38.043 INFO  DefaultFactory Logging to 'D:\MyProg\NServicebusTest\TestNservicebus\Subscriber\bin\Debug\' with level Info
+2018-11-21 17:44:38.185 INFO  NServiceBus.LicenseManager No valid license could be found, falling back to trial license with start date '25.09.2018'
+
+2018-11-21 17:44:38.198 WARN  NServiceBus.LicenseManager Trial for the Particular Service Platform has expired.
+2018-11-21 17:44:40.245 INFO  NServiceBus.PerformanceMonitorUsersInstaller Skipped adding user 'EASTWIND\o.solovichenko' to group 'Пользователи системного монитора' because the user is already in group.
+2018-11-21 17:44:40.298 WARN  NServiceBus.QueuePermissions Queue [private$\error] is running with [Все] with AccessRights set to [GenericWrite]. Consider setting appropriate permissions, if required by the organization. For more information, consult the documentation.
+2018-11-21 17:44:40.316 WARN  NServiceBus.QueuePermissions Queue [private$\error] is running with [NT AUTHORITY\АНОНИМНЫЙ ВХОД] with AccessRights set to [WriteMessage]. Consider setting appropriate permissions, if required by the organization. For more information, consult the documentation.
+2018-11-21 17:44:40.338 WARN  NServiceBus.QueuePermissions Queue [private$\testproj.queue.Timeouts] is running with [Все] with AccessRights set to [GenericWrite]. Consider setting appropriate permissions, if required by the organization. For more information, consult the documentation.
+2018-11-21 17:44:40.353 WARN  NServiceBus.QueuePermissions Queue [private$\testproj.queue.Timeouts] is running with [NT AUTHORITY\АНОНИМНЫЙ ВХОД] with AccessRights set to [WriteMessage]. Consider setting appropriate permissions, if required by the organization. For more information, consult the documentation.
+2018-11-21 17:44:40.366 WARN  NServiceBus.QueuePermissions Queue [private$\testproj.queue.TimeoutsDispatcher] is running with [Все] with AccessRights set to [GenericWrite]. Consider setting appropriate permissions, if required by the organization. For more information, consult the documentation.
+2018-11-21 17:44:40.377 WARN  NServiceBus.QueuePermissions Queue [private$\testproj.queue.TimeoutsDispatcher] is running with [NT AUTHORITY\АНОНИМНЫЙ ВХОД] with AccessRights set to [WriteMessage]. Consider setting appropriate permissions, if required by the organization. For more information, consult the documentation.
+2018-11-21 17:44:40.393 WARN  NServiceBus.QueuePermissions Queue [private$\testproj.queue.Retries] is running with [Все] with AccessRights set to [GenericWrite]. Consider setting appropriate permissions, if required by the organization. For more information, consult the documentation.
+2018-11-21 17:44:40.408 WARN  NServiceBus.QueuePermissions Queue [private$\testproj.queue.Retries] is running with [NT AUTHORITY\АНОНИМНЫЙ ВХОД] with AccessRights set to [WriteMessage]. Consider setting appropriate permissions, if required by the organization. For more information, consult the documentation.
+2018-11-21 17:44:40.423 WARN  NServiceBus.QueuePermissions Queue [private$\testproj.queue] is running with [Все] with AccessRights set to [GenericWrite]. Consider setting appropriate permissions, if required by the organization. For more information, consult the documentation.
+2018-11-21 17:44:40.439 WARN  NServiceBus.QueuePermissions Queue [private$\testproj.queue] is running with [NT AUTHORITY\АНОНИМНЫЙ ВХОД] with AccessRights set to [WriteMessage]. Consider setting appropriate permissions, if required by the organization. For more information, consult the documentation.
+2018-11-21 17:44:40.456 INFO  NServiceBus.PerformanceCounterHelper NServiceBus performance counter for '# of msgs pulled from the input queue /sec' is not set up correctly. To rectify this problem, consult the NServiceBus performance counters documentation.
+2018-11-21 17:44:40.467 INFO  NServiceBus.PerformanceCounterHelper NServiceBus performance counter for '# of msgs successfully processed / sec' is not set up correctly. To rectify this problem, consult the NServiceBus performance counters documentation.
+2018-11-21 17:44:40.481 INFO  NServiceBus.PerformanceCounterHelper NServiceBus performance counter for '# of msgs failures / sec' is not set up correctly. To rectify this problem, consult the NServiceBus performance counters documentation.
+2018-11-21 17:44:41.750 ERROR NServiceBus.LogErrorOnInvalidLicenseBehavior Your license has expired
+2018-11-21 17:44:41.750 ERROR NServiceBus.LogErrorOnInvalidLicenseBehavior Your license has expired
+2018-11-21 17:44:41.750 ERROR NServiceBus.LogErrorOnInvalidLicenseBehavior Your license has expired
+2018-11-21 17:46:04.699 ERROR NServiceBus.LogErrorOnInvalidLicenseBehavior Your license has expired
+2018-11-21 17:46:04.700 INFO  NServiceBus.Unicast.UnicastBus Initiating shutdown.
+2018-11-21 17:46:05.467 INFO  NServiceBus.RecoverabilityExecutor Immediate Retry is going to retry message '862a20e2-53d7-4498-a75d-a99f00d1d574' because of an exception:
+System.Transactions.TransactionAbortedException: Транзакция была прервана.
+   в System.Transactions.TransactionStatePromotedAborted.BeginCommit(InternalTransaction tx, Boolean asyncCommit, AsyncCallback asyncCallback, Object asyncState)
+   в System.Transactions.CommittableTransaction.Commit()
+   в System.Transactions.TransactionScope.InternalDispose()
+   в System.Transactions.TransactionScope.Dispose()
+   в NServiceBus.TransactionScopeStrategy.<ReceiveMessage>d__1.MoveNext() в C:\BuildAgent\work\b549d46003942065\src\NServiceBus.Core\Transports\Msmq\TransactionScopeStrategy.cs:строка 48
+2018-11-21 17:46:05.467 INFO  NServiceBus.RecoverabilityExecutor Immediate Retry is going to retry message 'fc95a272-6423-4294-bdd1-a99f00d15bb5' because of an exception:
+System.Transactions.TransactionAbortedException: Транзакция была прервана.
+   в System.Transactions.TransactionStatePromotedAborted.BeginCommit(InternalTransaction tx, Boolean asyncCommit, AsyncCallback asyncCallback, Object asyncState)
+   в System.Transactions.CommittableTransaction.Commit()
+   в System.Transactions.TransactionScope.InternalDispose()
+   в System.Transactions.TransactionScope.Dispose()
+   в NServiceBus.TransactionScopeStrategy.<ReceiveMessage>d__1.MoveNext() в C:\BuildAgent\work\b549d46003942065\src\NServiceBus.Core\Transports\Msmq\TransactionScopeStrategy.cs:строка 48
+2018-11-21 17:46:05.510 ERROR NServiceBus.LogErrorOnInvalidLicenseBehavior Your license has expired
+2018-11-21 17:46:05.498 ERROR NServiceBus.LogErrorOnInvalidLicenseBehavior Your license has expired
+2018-11-21 17:46:06.931 INFO  NServiceBus.Unicast.UnicastBus Shutdown complete.
+2018-11-21 17:46:30.231 INFO  DefaultFactory Logging to 'D:\MyProg\NServicebusTest\TestNservicebus\Subscriber\bin\Debug\' with level Info
+2018-11-21 17:46:30.349 INFO  NServiceBus.LicenseManager No valid license could be found, falling back to trial license with start date '25.09.2018'
+
+2018-11-21 17:46:30.361 WARN  NServiceBus.LicenseManager Trial for the Particular Service Platform has expired.
+2018-11-21 17:46:32.240 INFO  NServiceBus.PerformanceMonitorUsersInstaller Skipped adding user 'EASTWIND\o.solovichenko' to group 'Пользователи системного монитора' because the user is already in group.
+2018-11-21 17:46:32.293 WARN  NServiceBus.QueuePermissions Queue [private$\error] is running with [Все] with AccessRights set to [GenericWrite]. Consider setting appropriate permissions, if required by the organization. For more information, consult the documentation.
+2018-11-21 17:46:32.307 WARN  NServiceBus.QueuePermissions Queue [private$\error] is running with [NT AUTHORITY\АНОНИМНЫЙ ВХОД] with AccessRights set to [WriteMessage]. Consider setting appropriate permissions, if required by the organization. For more information, consult the documentation.
+2018-11-21 17:46:32.322 WARN  NServiceBus.QueuePermissions Queue [private$\testproj.queue.Timeouts] is running with [Все] with AccessRights set to [GenericWrite]. Consider setting appropriate permissions, if required by the organization. For more information, consult the documentation.
+2018-11-21 17:46:32.334 WARN  NServiceBus.QueuePermissions Queue [private$\testproj.queue.Timeouts] is running with [NT AUTHORITY\АНОНИМНЫЙ ВХОД] with AccessRights set to [WriteMessage]. Consider setting appropriate permissions, if required by the organization. For more information, consult the documentation.
+2018-11-21 17:46:32.346 WARN  NServiceBus.QueuePermissions Queue [private$\testproj.queue.TimeoutsDispatcher] is running with [Все] with AccessRights set to [GenericWrite]. Consider setting appropriate permissions, if required by the organization. For more information, consult the documentation.
+2018-11-21 17:46:32.357 WARN  NServiceBus.QueuePermissions Queue [private$\testproj.queue.TimeoutsDispatcher] is running with [NT AUTHORITY\АНОНИМНЫЙ ВХОД] with AccessRights set to [WriteMessage]. Consider setting appropriate permissions, if required by the organization. For more information, consult the documentation.
+2018-11-21 17:46:32.370 WARN  NServiceBus.QueuePermissions Queue [private$\testproj.queue.Retries] is running with [Все] with AccessRights set to [GenericWrite]. Consider setting appropriate permissions, if required by the organization. For more information, consult the documentation.
+2018-11-21 17:46:32.390 WARN  NServiceBus.QueuePermissions Queue [private$\testproj.queue.Retries] is running with [NT AUTHORITY\АНОНИМНЫЙ ВХОД] with AccessRights set to [WriteMessage]. Consider setting appropriate permissions, if required by the organization. For more information, consult the documentation.
+2018-11-21 17:46:32.406 WARN  NServiceBus.QueuePermissions Queue [private$\testproj.queue] is running with [Все] with AccessRights set to [GenericWrite]. Consider setting appropriate permissions, if required by the organization. For more information, consult the documentation.
+2018-11-21 17:46:32.419 WARN  NServiceBus.QueuePermissions Queue [private$\testproj.queue] is running with [NT AUTHORITY\АНОНИМНЫЙ ВХОД] with AccessRights set to [WriteMessage]. Consider setting appropriate permissions, if required by the organization. For more information, consult the documentation.
+2018-11-21 17:46:32.438 INFO  NServiceBus.PerformanceCounterHelper NServiceBus performance counter for '# of msgs pulled from the input queue /sec' is not set up correctly. To rectify this problem, consult the NServiceBus performance counters documentation.
+2018-11-21 17:46:32.449 INFO  NServiceBus.PerformanceCounterHelper NServiceBus performance counter for '# of msgs successfully processed / sec' is not set up correctly. To rectify this problem, consult the NServiceBus performance counters documentation.
+2018-11-21 17:46:32.460 INFO  NServiceBus.PerformanceCounterHelper NServiceBus performance counter for '# of msgs failures / sec' is not set up correctly. To rectify this problem, consult the NServiceBus performance counters documentation.
+2018-11-21 17:48:50.839 INFO  DefaultFactory Logging to 'D:\MyProg\NServicebusTest\TestNservicebus\Subscriber\bin\Debug\' with level Info
+2018-11-21 17:48:50.955 INFO  NServiceBus.LicenseManager No valid license could be found, falling back to trial license with start date '25.09.2018'
+
+2018-11-21 17:48:50.968 WARN  NServiceBus.LicenseManager Trial for the Particular Service Platform has expired.
+2018-11-21 17:48:53.150 INFO  NServiceBus.PerformanceMonitorUsersInstaller Skipped adding user 'EASTWIND\o.solovichenko' to group 'Пользователи системного монитора' because the user is already in group.
+2018-11-21 17:48:53.213 WARN  NServiceBus.QueuePermissions Queue [private$\error] is running with [Все] with AccessRights set to [GenericWrite]. Consider setting appropriate permissions, if required by the organization. For more information, consult the documentation.
+2018-11-21 17:48:53.227 WARN  NServiceBus.QueuePermissions Queue [private$\error] is running with [NT AUTHORITY\АНОНИМНЫЙ ВХОД] with AccessRights set to [WriteMessage]. Consider setting appropriate permissions, if required by the organization. For more information, consult the documentation.
+2018-11-21 17:48:53.241 WARN  NServiceBus.QueuePermissions Queue [private$\testproj.queue.Timeouts] is running with [Все] with AccessRights set to [GenericWrite]. Consider setting appropriate permissions, if required by the organization. For more information, consult the documentation.
+2018-11-21 17:48:53.252 WARN  NServiceBus.QueuePermissions Queue [private$\testproj.queue.Timeouts] is running with [NT AUTHORITY\АНОНИМНЫЙ ВХОД] with AccessRights set to [WriteMessage]. Consider setting appropriate permissions, if required by the organization. For more information, consult the documentation.
+2018-11-21 17:48:53.264 WARN  NServiceBus.QueuePermissions Queue [private$\testproj.queue.TimeoutsDispatcher] is running with [Все] with AccessRights set to [GenericWrite]. Consider setting appropriate permissions, if required by the organization. For more information, consult the documentation.
+2018-11-21 17:48:53.274 WARN  NServiceBus.QueuePermissions Queue [private$\testproj.queue.TimeoutsDispatcher] is running with [NT AUTHORITY\АНОНИМНЫЙ ВХОД] with AccessRights set to [WriteMessage]. Consider setting appropriate permissions, if required by the organization. For more information, consult the documentation.
+2018-11-21 17:48:53.286 WARN  NServiceBus.QueuePermissions Queue [private$\testproj.queue.Retries] is running with [Все] with AccessRights set to [GenericWrite]. Consider setting appropriate permissions, if required by the organization. For more information, consult the documentation.
+2018-11-21 17:48:53.295 WARN  NServiceBus.QueuePermissions Queue [private$\testproj.queue.Retries] is running with [NT AUTHORITY\АНОНИМНЫЙ ВХОД] with AccessRights set to [WriteMessage]. Consider setting appropriate permissions, if required by the organization. For more information, consult the documentation.
+2018-11-21 17:48:53.308 WARN  NServiceBus.QueuePermissions Queue [private$\testproj.queue] is running with [Все] with AccessRights set to [GenericWrite]. Consider setting appropriate permissions, if required by the organization. For more information, consult the documentation.
+2018-11-21 17:48:53.319 WARN  NServiceBus.QueuePermissions Queue [private$\testproj.queue] is running with [NT AUTHORITY\АНОНИМНЫЙ ВХОД] with AccessRights set to [WriteMessage]. Consider setting appropriate permissions, if required by the organization. For more information, consult the documentation.
+2018-11-21 17:48:53.336 INFO  NServiceBus.PerformanceCounterHelper NServiceBus performance counter for '# of msgs pulled from the input queue /sec' is not set up correctly. To rectify this problem, consult the NServiceBus performance counters documentation.
+2018-11-21 17:48:53.350 INFO  NServiceBus.PerformanceCounterHelper NServiceBus performance counter for '# of msgs successfully processed / sec' is not set up correctly. To rectify this problem, consult the NServiceBus performance counters documentation.
+2018-11-21 17:48:53.360 INFO  NServiceBus.PerformanceCounterHelper NServiceBus performance counter for '# of msgs failures / sec' is not set up correctly. To rectify this problem, consult the NServiceBus performance counters documentation.
+2018-11-21 17:50:24.650 ERROR NServiceBus.LogErrorOnInvalidLicenseBehavior Your license has expired
+2018-11-21 17:51:30.469 ERROR NServiceBus.LogErrorOnInvalidLicenseBehavior Your license has expired
+2018-11-21 17:51:36.416 ERROR NServiceBus.LogErrorOnInvalidLicenseBehavior Your license has expired
+2018-11-21 17:56:06.815 INFO  DefaultFactory Logging to 'D:\MyProg\NServicebusTest\TestNservicebus\Subscriber\bin\Debug\' with level Info
+2018-11-21 17:56:06.934 INFO  NServiceBus.LicenseManager No valid license could be found, falling back to trial license with start date '25.09.2018'
+
+2018-11-21 17:56:06.945 WARN  NServiceBus.LicenseManager Trial for the Particular Service Platform has expired.
+2018-11-21 17:56:08.951 INFO  NServiceBus.PerformanceMonitorUsersInstaller Skipped adding user 'EASTWIND\o.solovichenko' to group 'Пользователи системного монитора' because the user is already in group.
+2018-11-21 17:56:09.014 WARN  NServiceBus.QueuePermissions Queue [private$\error] is running with [Все] with AccessRights set to [GenericWrite]. Consider setting appropriate permissions, if required by the organization. For more information, consult the documentation.
+2018-11-21 17:56:09.026 WARN  NServiceBus.QueuePermissions Queue [private$\error] is running with [NT AUTHORITY\АНОНИМНЫЙ ВХОД] with AccessRights set to [WriteMessage]. Consider setting appropriate permissions, if required by the organization. For more information, consult the documentation.
+2018-11-21 17:56:09.040 WARN  NServiceBus.QueuePermissions Queue [private$\testproj.queue.Timeouts] is running with [Все] with AccessRights set to [GenericWrite]. Consider setting appropriate permissions, if required by the organization. For more information, consult the documentation.
+2018-11-21 17:56:09.051 WARN  NServiceBus.QueuePermissions Queue [private$\testproj.queue.Timeouts] is running with [NT AUTHORITY\АНОНИМНЫЙ ВХОД] with AccessRights set to [WriteMessage]. Consider setting appropriate permissions, if required by the organization. For more information, consult the documentation.
+2018-11-21 17:56:09.065 WARN  NServiceBus.QueuePermissions Queue [private$\testproj.queue.TimeoutsDispatcher] is running with [Все] with AccessRights set to [GenericWrite]. Consider setting appropriate permissions, if required by the organization. For more information, consult the documentation.
+2018-11-21 17:56:09.077 WARN  NServiceBus.QueuePermissions Queue [private$\testproj.queue.TimeoutsDispatcher] is running with [NT AUTHORITY\АНОНИМНЫЙ ВХОД] with AccessRights set to [WriteMessage]. Consider setting appropriate permissions, if required by the organization. For more information, consult the documentation.
+2018-11-21 17:56:09.090 WARN  NServiceBus.QueuePermissions Queue [private$\testproj.queue.Retries] is running with [Все] with AccessRights set to [GenericWrite]. Consider setting appropriate permissions, if required by the organization. For more information, consult the documentation.
+2018-11-21 17:56:09.101 WARN  NServiceBus.QueuePermissions Queue [private$\testproj.queue.Retries] is running with [NT AUTHORITY\АНОНИМНЫЙ ВХОД] with AccessRights set to [WriteMessage]. Consider setting appropriate permissions, if required by the organization. For more information, consult the documentation.
+2018-11-21 17:56:09.114 WARN  NServiceBus.QueuePermissions Queue [private$\testproj.queue] is running with [Все] with AccessRights set to [GenericWrite]. Consider setting appropriate permissions, if required by the organization. For more information, consult the documentation.
+2018-11-21 17:56:09.127 WARN  NServiceBus.QueuePermissions Queue [private$\testproj.queue] is running with [NT AUTHORITY\АНОНИМНЫЙ ВХОД] with AccessRights set to [WriteMessage]. Consider setting appropriate permissions, if required by the organization. For more information, consult the documentation.
+2018-11-21 17:56:09.144 INFO  NServiceBus.PerformanceCounterHelper NServiceBus performance counter for '# of msgs pulled from the input queue /sec' is not set up correctly. To rectify this problem, consult the NServiceBus performance counters documentation.
+2018-11-21 17:56:09.158 INFO  NServiceBus.PerformanceCounterHelper NServiceBus performance counter for '# of msgs successfully processed / sec' is not set up correctly. To rectify this problem, consult the NServiceBus performance counters documentation.
+2018-11-21 17:56:09.169 INFO  NServiceBus.PerformanceCounterHelper NServiceBus performance counter for '# of msgs failures / sec' is not set up correctly. To rectify this problem, consult the NServiceBus performance counters documentation.
+2018-11-21 17:56:14.739 ERROR NServiceBus.LogErrorOnInvalidLicenseBehavior Your license has expired
+2018-11-21 17:56:19.931 ERROR NServiceBus.LogErrorOnInvalidLicenseBehavior Your license has expired
+2018-11-21 18:01:01.356 INFO  DefaultFactory Logging to 'D:\MyProg\NServicebusTest\TestNservicebus\Subscriber\bin\Debug\' with level Info
+2018-11-21 18:01:01.542 INFO  NServiceBus.LicenseManager No valid license could be found, falling back to trial license with start date '25.09.2018'
+
+2018-11-21 18:01:01.566 WARN  NServiceBus.LicenseManager Trial for the Particular Service Platform has expired.
+2018-11-21 18:01:03.539 INFO  NServiceBus.PerformanceMonitorUsersInstaller Skipped adding user 'EASTWIND\o.solovichenko' to group 'Пользователи системного монитора' because the user is already in group.
+2018-11-21 18:01:03.588 WARN  NServiceBus.QueuePermissions Queue [private$\error] is running with [Все] with AccessRights set to [GenericWrite]. Consider setting appropriate permissions, if required by the organization. For more information, consult the documentation.
+2018-11-21 18:01:03.599 WARN  NServiceBus.QueuePermissions Queue [private$\error] is running with [NT AUTHORITY\АНОНИМНЫЙ ВХОД] with AccessRights set to [WriteMessage]. Consider setting appropriate permissions, if required by the organization. For more information, consult the documentation.
+2018-11-21 18:01:03.613 WARN  NServiceBus.QueuePermissions Queue [private$\testproj.queue.Timeouts] is running with [Все] with AccessRights set to [GenericWrite]. Consider setting appropriate permissions, if required by the organization. For more information, consult the documentation.
+2018-11-21 18:01:03.625 WARN  NServiceBus.QueuePermissions Queue [private$\testproj.queue.Timeouts] is running with [NT AUTHORITY\АНОНИМНЫЙ ВХОД] with AccessRights set to [WriteMessage]. Consider setting appropriate permissions, if required by the organization. For more information, consult the documentation.
+2018-11-21 18:01:03.637 WARN  NServiceBus.QueuePermissions Queue [private$\testproj.queue.TimeoutsDispatcher] is running with [Все] with AccessRights set to [GenericWrite]. Consider setting appropriate permissions, if required by the organization. For more information, consult the documentation.
+2018-11-21 18:01:03.647 WARN  NServiceBus.QueuePermissions Queue [private$\testproj.queue.TimeoutsDispatcher] is running with [NT AUTHORITY\АНОНИМНЫЙ ВХОД] with AccessRights set to [WriteMessage]. Consider setting appropriate permissions, if required by the organization. For more information, consult the documentation.
+2018-11-21 18:01:03.658 WARN  NServiceBus.QueuePermissions Queue [private$\testproj.queue.Retries] is running with [Все] with AccessRights set to [GenericWrite]. Consider setting appropriate permissions, if required by the organization. For more information, consult the documentation.
+2018-11-21 18:01:03.669 WARN  NServiceBus.QueuePermissions Queue [private$\testproj.queue.Retries] is running with [NT AUTHORITY\АНОНИМНЫЙ ВХОД] with AccessRights set to [WriteMessage]. Consider setting appropriate permissions, if required by the organization. For more information, consult the documentation.
+2018-11-21 18:01:03.681 WARN  NServiceBus.QueuePermissions Queue [private$\testproj.queue] is running with [Все] with AccessRights set to [GenericWrite]. Consider setting appropriate permissions, if required by the organization. For more information, consult the documentation.
+2018-11-21 18:01:03.693 WARN  NServiceBus.QueuePermissions Queue [private$\testproj.queue] is running with [NT AUTHORITY\АНОНИМНЫЙ ВХОД] with AccessRights set to [WriteMessage]. Consider setting appropriate permissions, if required by the organization. For more information, consult the documentation.
+2018-11-21 18:01:03.717 INFO  NServiceBus.PerformanceCounterHelper NServiceBus performance counter for '# of msgs pulled from the input queue /sec' is not set up correctly. To rectify this problem, consult the NServiceBus performance counters documentation.
+2018-11-21 18:01:03.732 INFO  NServiceBus.PerformanceCounterHelper NServiceBus performance counter for '# of msgs successfully processed / sec' is not set up correctly. To rectify this problem, consult the NServiceBus performance counters documentation.
+2018-11-21 18:01:03.749 INFO  NServiceBus.PerformanceCounterHelper NServiceBus performance counter for '# of msgs failures / sec' is not set up correctly. To rectify this problem, consult the NServiceBus performance counters documentation.
