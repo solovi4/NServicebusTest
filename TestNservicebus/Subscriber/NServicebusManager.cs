@@ -4,6 +4,7 @@ using System.Collections.Generic;
 using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
+using TestNservicebus;
 
 namespace Subscriber
 {
@@ -17,6 +18,7 @@ namespace Subscriber
             endpointConfiguration.UseSerialization<JsonSerializer>();
             var transport = endpointConfiguration.UseTransport<MsmqTransport>();
             var routing = transport.Routing();
+            routing.RegisterPublisher(typeof(MyEvent).Assembly, "testproj.publisher.queue");
             //routing.RouteToEndpoint(typeof(MyEvent).Assembly, queue);
             endpointConfiguration.SendFailedMessagesTo("error");
 
