@@ -22,7 +22,7 @@ namespace TestNservicebus
 
             
 
-            endpointConfiguration.SendOnly();
+            //endpointConfiguration.SendOnly();
             endpointConfiguration.EnableInstallers();
 
 
@@ -31,7 +31,7 @@ namespace TestNservicebus
 
         public async Task<IEndpointInstance> Start()
         {
-            var config = ConfigureEndpoint("testproj.queue");
+            var config = ConfigureEndpoint("testproj.publisher.queue");
             return await Endpoint.Start(config).ConfigureAwait(false);
         }
     }
