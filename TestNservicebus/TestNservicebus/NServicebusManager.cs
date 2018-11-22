@@ -22,7 +22,7 @@ namespace TestNservicebus
 
             
 
-            endpointConfiguration.SendOnly();
+            //endpointConfiguration.SendOnly();
             endpointConfiguration.EnableInstallers();
 
 
